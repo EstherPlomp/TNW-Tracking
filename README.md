@@ -23,6 +23,7 @@ data” “code” “method” “data repository”, “available”, “DOI�
   - ODDPub allows to obtain estimates of the prevalence of Open Data in the biomedical literature on a larger scale and independent of data availability statements. The ODDPub algorithm is freely available as R package on GitHub (https://doi.org/10.5281/zenodo.4071699, RRID:SCR_018385). https://github.com/quest-bih/oddpub/tree/v6
 - [French Open Science monitor](https://frenchopensciencemonitor.esr.gouv.fr/) (using [GROBID](https://github.com/kermitt2/grobid) and [softcite](https://github.com/softcite/software-mentions)).
   - Note on softcite: only coverage/accuracy in Life Sciences and Economics, and to implement larger scale you'll need your own server
+  - [University of Lorraine adaption](https://gitlab.com/Cthulhus_Queen/barometre_scienceouverte_universitedelorraine)
 
 - [Culina et al. 2020](https://doi.org/10.1371/journal.pbio.3000763)
 - [Riedel et al. 2020](https://doi.org/10.5334/dsj-2020-042)
