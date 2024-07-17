@@ -37,6 +37,10 @@ https://github.com/meronvermaas/PURE_fulltext_analysis
 - Output.api.py – metadata
 - API key voor pure nodig – maar kan ook via OpenAIRE voor open access publicaties. 
 
+### Code availability
+- [vandewalle 2019](https://lirias.kuleuven.be/2815281?limo=0) - Code availability increased to 24% and increased citation for publications with code. Reanalysis of a previous study in 2012 found out that "Out of the 66 links to code found in 2012, only
+47 were still valid (or easy to fix)."
+
 ### SWORDS
 
 * [A curated list of awesome open source projects from Utrecht University](https://github.com/UtrechtUniversity/awesome-utrecht-university)
