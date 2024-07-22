@@ -16,6 +16,7 @@ data” “code” “method” “data repository”, “available”, “DOI�
 ## Relevant repositories/platforms
 - GitHub
 - GitLab
+- 4TU.ResearchData - via DataCite: https://api.datacite.org/dois?provider-id=HNYE / https://support.datacite.org/reference/get_dois
 
 ## Relevant Projects and Resources
 
