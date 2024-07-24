@@ -6,7 +6,7 @@
 * [a Generalized Molecular Dynamics Analysis Tool ](https://research-software-directory.org/software/gemdat) (RST)
 * [MPET](https://research-software-directory.org/software/mpet) (RST)
 
-## Projects: 
+## Projects: 4 out of 42 projects
 
 * [A phase field model to guide the development and design of next generation solid-state-batteries](https://research-software-directory.org/projects/a-phase-field-model-to-guide-the-development-and-design-of-next-generation-solid-state-batteries) (RST)
 * [GEMDAT - Developing a Generalized Molecular Dynamics Analysis Tool](https://research-software-directory.org/projects/gemdat) (RST)
