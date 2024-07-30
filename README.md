@@ -22,7 +22,8 @@ data” “code” “method” “data repository”, “available”, “DOI�
 
 - [Charité Metrics Dashboard](https://quest-dashboard.charite.de/) (using [ODDPub](https://github.com/quest-bih/oddpub)) 
   - ODDPub allows to obtain estimates of the prevalence of Open Data in the biomedical literature on a larger scale and independent of data availability statements. The ODDPub algorithm is freely available as R package on GitHub (https://doi.org/10.5281/zenodo.4071699, RRID:SCR_018385). https://github.com/quest-bih/oddpub/tree/v6
-- [French Open Science monitor](https://frenchopensciencemonitor.esr.gouv.fr/) (using [GROBID](https://github.com/kermitt2/grobid) and [softcite](https://github.com/softcite/software-mentions)).
+- [French Open Science monitor](https://frenchopensciencemonitor.esr.gouv.fr/) (using [GROBID](https://github.com/kermitt2/grobid) and [softcite](https://github.com/softcite/software-mentions)). See [Bassinet et al. 2023](https://hal.science/hal-04121339v3).
+  - Softcite dataset [Howison et al. 2023](https://zenodo.org/doi/10.5281/zenodo.7995564), [Du et al. 2021](https://doi.org/10.1002/asi.24454) - and Softcite software mention recognizer [Lopez et al. 2021](https://doi.org/10.1145/3459637.3481936)
   - Note on softcite: only coverage/accuracy in Life Sciences and Economics, and to implement larger scale you'll need your own server
   - [University of Lorraine adaption](https://gitlab.com/Cthulhus_Queen/barometre_scienceouverte_universitedelorraine) (see [website](https://scienceouverte.univ-lorraine.fr/en/bibliometrics/lorraine-open-science-barometer/))
 
@@ -31,6 +32,7 @@ data” “code” “method” “data repository”, “available”, “DOI�
 - [Serghiou et al. 2021](https://doi.org/10.1371/journal.pbio.3001107)
 - [DataStet](https://github.com/kermitt2/datastet)
 - [Open Science Monitoring Initiative](https://open-science-monitoring.org/)
+- SoMeSci dataset [Schindler et al. 2021](https://doi.org/10.1145/3459637.3482017)
 
 ### Project Meron Vermaas, eScience Fellow 2023-2024
 https://github.com/meronvermaas/PURE_fulltext_analysis
