@@ -84,3 +84,6 @@ https://github.com/meronvermaas/PURE_fulltext_analysis
   - Performance across domains
 - Software is more than what is visible from publications: library/package dependencies
 
+## TNW Software
+- [DIPlib](https://diplib.org/contributors.html) ImPhys (Bernd Rieger, Ronald Ligteringen) (found via softcite dataset)
+- 
