@@ -30,6 +30,7 @@ data” “code” “method” “data repository”, “available”, “DOI�
 - [Culina et al. 2020](https://doi.org/10.1371/journal.pbio.3000763)
 - [Riedel et al. 2020](https://doi.org/10.5334/dsj-2020-042)
 - [Serghiou et al. 2021](https://doi.org/10.1371/journal.pbio.3001107)
+- [Du et al. 2022](http://dx.doi.org/10.7717/peerj-cs.1022)
 - [DataStet](https://github.com/kermitt2/datastet)
 - [Open Science Monitoring Initiative](https://open-science-monitoring.org/)
 - SoMeSci dataset [Schindler et al. 2021](https://doi.org/10.1145/3459637.3482017)
