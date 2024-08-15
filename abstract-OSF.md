@@ -2,7 +2,7 @@
 
 ## Tracking Research Objects: Levelling the playing field in research assessment
 
-_Authors/Session Leads: Esther Plomp, Meron Vermaas, Carlos Martinez, ...._
+_Authors/Session Leads: Esther Plomp, Meron Vermaas, Carlos Martinez, Nemo Andrea
 
 Including Open Science practices in the evaluation of researcher performance is currently a contested subject within academia and a topic on the agenda of several initatives already that try to change research assessment (such as [COARA](https://coara.eu/agreement/the-commitments/), [Adore declaration](https://adore.software/declaration/), [DORA](https://sfdora.org/), [Recognition & Rewards](https://recognitionrewards.nl/), and [Hidden REF](https://hidden-ref.org/)). 
 Although many researchers contribute to their field of expertise in a multitude of manners, the most stringent criteria of success is the number of research articles published. 
