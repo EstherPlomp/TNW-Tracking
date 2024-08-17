@@ -19,3 +19,20 @@ How can we balance quantitative and qualitative metrics in the evaluation of res
 How can tracking research objects promote equity and inclusion within the research community? 
 Please bring your examples, recommended practices and questions (and answers!) to the session!
 
+
+# Session draft
+
+~ 20 minutes case studies
+- Meron
+- Esther
+- Other examples?
+
+~ 40 minutes discussion (menti meter?)
+Should we track research objects or has this the risk to reinforce the publish or perish culture?
+Can tracking of research objects incentivise researchers to share their research outputs in accordance with the FAIR principles, or do we need other tools? 
+Are there any examples in the Netherlands where tracking of research objects have been successful? 
+What technological infrastructure would be needed to effectively track research objects - Are there existing tools that can be adapted for this purpose? 
+How can we balance quantitative and qualitative metrics in the evaluation of research objects? 
+How can tracking research objects promote equity and inclusion within the research community? 
+
+**Outcome**: blogpost to summarise the session + if needs are clear and there are simple steps that could be taken, perhaps some recommendations that researchers could follow to ensure that their research outputs are easier to track? 
