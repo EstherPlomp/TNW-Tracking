@@ -35,6 +35,12 @@ data” “code” “method” “data repository”, “available”, “DOI�
 - [Open Science Monitoring Initiative](https://open-science-monitoring.org/)
 - SoMeSci dataset [Schindler et al. 2021](https://doi.org/10.1145/3459637.3482017)
 
+- "In this analysis, we leverage two text and data mining tools, Publink and xDD, to identify data citations that may not be present in structural metadata records. Publink is a Python
+package that allows users to find relationships between publications and data (Wieferich et al. 2020). In cases where references are not included in the publication’s DOI structural metadata,
+Publink can be used to see if researchers are referencing their data by searching for mentions of data DOIs in the full text of publications included in the eXtract Dark Data (xDD) digital library.
+xDD, formerly known as GeoDeepDive, is a cyberinfrastructure that compiles data on published literature and provides users with the ability to perform full text searches of published literature
+using the xDD API (Peters et al. 2021a)." - [Donovan and Langseth 2024](https://doi.org/10.5334/dsj-2024-024)
+
 ### Project Meron Vermaas, eScience Fellow 2023-2024
 https://github.com/meronvermaas/PURE_fulltext_analysis
 - Van de repositories de collaborators extracten en dan keywords zoeken voor mensen die bij faculteit werken. 
