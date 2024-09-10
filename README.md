@@ -34,6 +34,13 @@ data” “code” “method” “data repository”, “available”, “DOI�
 - [DataStet](https://github.com/kermitt2/datastet)
 - [Open Science Monitoring Initiative](https://open-science-monitoring.org/)
 - SoMeSci dataset [Schindler et al. 2021](https://doi.org/10.1145/3459637.3482017)
+- [Maitner et al. 2024](https://doi.org/10.1002/ece3.70030) 
+    -   We find that code is rarely published (only 6% of papers), with little improvement over time. 
+    - agent-based models found that 81% did not provide code (Barton et al., 2022)
+    - Open access information was provided by the rscopus R package (Muschelli, 2019).
+    - All R scripts underlying these analyses are available at: https://github.com/bmaitner/R_citations and via Zenodo ([Maitner & Lei, 2024](https://zenodo.org/doi/10.5281/zenodo.8201250))
+    - Overall, R code was only available for 55 of the 1001 papers examined (5.5%; Figure 1). When shared, code was most often in the Supplemental Information (40%), followed by Github (22%), Figshare (11%), or other repositories (37%).
+      The majority of code (67%) did not include a license. Where a license was included, it was nearly always permissive or copyleft (e.g., CC0, CC-BY, GPL, and MIT).
 
 - "In this analysis, we leverage two text and data mining tools, Publink and xDD, to identify data citations that may not be present in structural metadata records. Publink is a Python
 package that allows users to find relationships between publications and data (Wieferich et al. 2020). In cases where references are not included in the publication’s DOI structural metadata,
