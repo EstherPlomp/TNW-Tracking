@@ -41,6 +41,9 @@ Publink can be used to see if researchers are referencing their data by searchin
 xDD, formerly known as GeoDeepDive, is a cyberinfrastructure that compiles data on published literature and provides users with the ability to perform full text searches of published literature
 using the xDD API (Peters et al. 2021a)." - [Donovan and Langseth 2024](https://doi.org/10.5334/dsj-2024-024)
 
+### Relevant publications
+- [Katz and Chue Hong 2024](http://dx.doi.org/10.7717/peerj-cs.1951) - future recommendations for better software citations
+
 ### Project Meron Vermaas, eScience Fellow 2023-2024
 https://github.com/meronvermaas/PURE_fulltext_analysis
 - Van de repositories de collaborators extracten en dan keywords zoeken voor mensen die bij faculteit werken. 
