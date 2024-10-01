@@ -33,3 +33,5 @@ Check the DOI list for any author corrections or errata!
 
 * OpenAlex: not all the citations are consistently retrieved? 
 * ScholeXplorer - service by OpenAIR - but articles are not always retrieved from their DOI
+
+Crossref: 'polite pull' where you give your email address to get better services, otherwise no account/key needed. DataCite has a rate limit of 3000 requests per 5 minutes. 
