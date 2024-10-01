@@ -1,7 +1,7 @@
 
 # SWORDS
 
-The SWORDS workflow focuses on GitHub - which requires a lot of manual processing of the retreived information as people do not indicate information about which university they are from, let alone which faculty or which department. It may be worthwhile to test out the third SWORDS script to check how FAIR the repositories are, but also: https://github.com/fair-software/howfairis
+The SWORDS workflow focuses on GitHub - which requires a lot of manual processing of the retreived information as people do not indicate information about which university they are from, let alone which faculty or which department. It may be worthwhile to test out the third SWORDS script to check how FAIR the repositories are, but also: https://github.com/fair-software/howfairis or https://github.com/fair-software/fairtally (which runs howfairis over a list of repositories)
 
 # Exploring workflow Meron
 
