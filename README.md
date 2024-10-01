@@ -47,6 +47,7 @@ package that allows users to find relationships between publications and data (W
 Publink can be used to see if researchers are referencing their data by searching for mentions of data DOIs in the full text of publications included in the eXtract Dark Data (xDD) digital library.
 xDD, formerly known as GeoDeepDive, is a cyberinfrastructure that compiles data on published literature and provides users with the ability to perform full text searches of published literature
 using the xDD API (Peters et al. 2021a)." - [Donovan and Langseth 2024](https://doi.org/10.5334/dsj-2024-024)
+    - Wieferich, D, Serna, B, Langseth, M, et al. 2020 Publink. U.S. Geological Survey Software Release. DOI: https://doi.org/10.5066/P92MX1NF (Azin/Joshua worked on some of these scripts)
 
 ### Relevant publications
 - [Katz and Chue Hong 2024](http://dx.doi.org/10.7717/peerj-cs.1951) - future recommendations for better software citations
