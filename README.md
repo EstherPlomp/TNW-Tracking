@@ -11,7 +11,7 @@ Evaluation of researcher performance is currently a contested subject within aca
 ## Relevant keywords for TNW
 
 Keywords: GitHub, Lab, bitbucket, subversion, gitea, gogs
-data” “code” “method” “data repository”, “available”, “DOI”, as well as data repositories regularly used by researchers of the faculty (4TU.ResearchData, Zenodo, ENA, EVA, SRA, UniProtKB, IDR, EMPIAR). 
+data” “code” “method” “data repository”, “available”, “DOI”, as well as data repositories regularly used by researchers of the faculty (4TU.ResearchData - 4TU ResearchData, Zenodo, ENA, EVA, SRA, UniProtKB, IDR, EMPIAR). 
 
 ## Relevant repositories/platforms
 - GitHub
