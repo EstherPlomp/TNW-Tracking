@@ -26,3 +26,5 @@ However: Not all researchers cite their data/code in the references - most will 
 Journals such as Soft Matter and PHYSICAL REVIEW B do not have these standardised 'data availability statement' or they call it differently (data and material availability statement). 
 
 Possibly both approaches combined would give the most information: checking the references (and checking the authors of the references in case the authors are citing someone elses data/code), and checking the text for data availability statements or keywords (zenodo, 4TU.ResearchData). 
+
+Check the DOI list for any author corrections or errata! 
