@@ -15,7 +15,7 @@ Uploads registered in 4TU.ResearchData are assigned at the institutional level, 
 
 Similar issues as 4TU.ResearchData - metadata missing or not detailed enough. Esther is working on a manual overview. 
 
-# 1 October eSciencecenter (Ewan/Nemo/Esther/Carlos
+# 1 October eSciencecenter (Ewan/Nemo/Esther/Carlos)
 
 * Example paper which cites code repository in the references: https://scipost.org/10.21468/SciPostPhys.16.5.135 /  10.21468/SciPostPhys.16.5.135 + example 2: https://doi.org/10.1103/PhysRevB.99.075416
 
@@ -28,3 +28,8 @@ Journals such as Soft Matter and PHYSICAL REVIEW B do not have these standardise
 Possibly both approaches combined would give the most information: checking the references (and checking the authors of the references in case the authors are citing someone elses data/code), and checking the text for data availability statements or keywords (zenodo, 4TU.ResearchData). 
 
 Check the DOI list for any author corrections or errata! 
+
+## Explorations by Nemo
+
+* OpenAlex: not all the citations are consistently retrieved? 
+* ScholeXplorer - service by OpenAIR - but articles are not always retrieved from their DOI
