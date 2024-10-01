@@ -22,6 +22,9 @@ Please bring your examples, recommended practices and questions (and answers!) t
 
 # Session draft
 
+14:55 - 15:40
+Max 30 participants (capped by organisation)
+
 ~ 20 minutes case studies
 Meron
 Esther
@@ -29,18 +32,18 @@ Other examples? -> add post-its to the example sheet? flyer and forms? (flyer al
 Announce intent to write blogpost for eScience center website
 
 ~ 30 minutes discussion (smaller groups that can each discuss a question for a while - move to a different one after a while + have a facilitator per question + summary at the end)
-Should we track research objects? And if we do, what would you use this for? 
-In what way would tracking of research objects nurture a culture of sharing research outputs? 
-In accordance with the FAIR principles?, or do we need other tools?
-What are the disadvantages of tracking research objects?
-What (existing) technological infrastructure would be needed to effectively track research objects?
-How can we balance quantitative and qualitative metrics in the evaluation of research objects?
-How can tracking research objects promote equity and inclusion within the research community?
-Question from audience?
+- Should we track research objects? And if we do, what would you use this for? 
+- In what way would tracking of research objects nurture a culture of sharing research outputs? 
+- In accordance with the FAIR principles?, or do we need other tools?
+- What are the disadvantages of tracking research objects?
+- What (existing) technological infrastructure would be needed to effectively track research objects?
+- How can we balance quantitative and qualitative metrics in the evaluation of research objects?
+- How can tracking research objects promote equity and inclusion within the research community?
+- Question from audience?
 
 ~ 10 min recap
 
-**Outcome:** blogpost to summarise the session 
+**Outcome:** blogpost to summarise the session (including recommendations that researchers could follow to ensure that their research outputs are easier to track?)
 
 **Follow-ups after session (probably):** if needs are clear and there are simple steps that could be taken, perhaps some recommendations that researchers could follow to ensure that their research outputs are easier to track?
 
@@ -49,8 +52,7 @@ List of participants? (to see if we could ask any additional people to chair one
 Screen for case study presentations at start
 Sheets/flipovers, markers, post-its
 
-**Next meeting **
-In October, to further prep session and clarify details
+**Next meeting**
+8 October, to further prep session and clarify details
 
 
-**Outcome**: blogpost to summarise the session + if needs are clear and there are simple steps that could be taken, perhaps some recommendations that researchers could follow to ensure that their research outputs are easier to track? 
