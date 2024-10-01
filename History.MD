@@ -36,6 +36,14 @@ Todos for get DOI script:
     clean up the code (including many of the print statements)
 
 
+## PURE API
+
+Start page provided by Elsevier on their API: https://helpcenter.pure.elsevier.com/en_US/pure-api/pure-api-home
+The API is further documented on : https://api.elsevierpure.com/ws/api/documentation/index.html
+Here’s where you access the API which lists all available end points: https://pure.tudelft.nl/ws/api/api-docs/index.html?url=/ws/api/openapi.yaml
+You use the API key to authorize. 
+
+
 ## Explorations by Nemo
 
 * OpenAlex: not all the citations are consistently retrieved? 
