@@ -29,6 +29,13 @@ Possibly both approaches combined would give the most information: checking the 
 
 Check the DOI list for any author corrections or errata! 
 
+Todos for get DOI script:
+
+    better error checking/handling
+    also check Crossref for any datasets
+    clean up the code (including many of the print statements)
+
+
 ## Explorations by Nemo
 
 * OpenAlex: not all the citations are consistently retrieved? 
