@@ -1,7 +1,19 @@
 
+# SWORDS
+
+The SWORDS workflow focuses on GitHub - which requires a lot of manual processing of the retreived information as people do not indicate information about which university they are from, let alone which faculty or which department. 
+
 # Exploring workflow Meron
 
 Meron's workflow requires access to PURE API, which we did not manage to obtain. Additionally, the information received needs to be slightly updated - we are not necessairly looking at the amount of keywords in articles, but more towards percentages of data/code sharing for a particular list of articles. 
+
+# Exploring 4TU.ResearchData
+
+Uploads registered in 4TU.ResearchData are assigned at the institutional level, and does not have more granular level at the Faculty/Department level. Esther has set up an overview with the existing uploads for our faculty thanks to Jan, data curator at 4TU.ResearchData, who manually kept a list with more granular information. We are allowed to share this dataset publicly. 
+
+# Exploring Zenodo
+
+Similar issues as 4TU.ResearchData - metadata missing or not detailed enough. Esther is working on a manual overview. 
 
 # 1 October eSciencecenter (Ewan/Nemo/Esther/Carlos
 
