@@ -48,9 +48,9 @@ Announce intent to write blogpost for eScience center website
 **Follow-ups after session (probably):** if needs are clear and there are simple steps that could be taken, perhaps some recommendations that researchers could follow to ensure that their research outputs are easier to track?
 
 **Requirements:**
-List of participants? (to see if we could ask any additional people to chair one of the questions)
-Screen for case study presentations at start
-Sheets/flipovers, markers, post-its
+List of participants? Not possible due to GDPR - we can ask the participants about taking ownership during the session itself
+Screen for case study presentations at start - check
+Sheets/flipovers, markers, post-its - check
 
 **Next meeting**
 8 October, to further prep session and clarify details
