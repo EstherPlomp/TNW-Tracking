@@ -25,20 +25,18 @@ Please bring your examples, recommended practices and questions (and answers!) t
 14:55 - 15:40
 Max 30 participants (capped by organisation)
 
-~ 20 minutes case studies
+~ 15 minutes case studies
 Meron
 Esther
 Other examples? -> add post-its to the example sheet? flyer and forms? (flyer also allows for input from other people at the festival!) 
 Announce intent to write blogpost for eScience center website
 
 ~ 30 minutes discussion (smaller groups that can each discuss a question for a while - move to a different one after a while + have a facilitator per question + summary at the end)
-- Should we track research objects? And if we do, what would you use this for? 
+- Should we track research objects (what are the disadvantages?)? 
 - In what way would tracking of research objects nurture a culture of sharing research outputs? 
-- In accordance with the FAIR principles?, or do we need other tools?
-- What are the disadvantages of tracking research objects?
-- What (existing) technological infrastructure would be needed to effectively track research objects?
+- What (existing) technological infrastructure would be needed to effectively track research objects? (will this follow the FAIR principles? Do we need other tools?)
 - How can we balance quantitative and qualitative metrics in the evaluation of research objects?
-- How can tracking research objects promote equity and inclusion within the research community?
+- What would you use research object tracking for? How can tracking research objects promote equity and inclusion within the research community?
 - Question from audience?
 
 ~ 10 min recap
