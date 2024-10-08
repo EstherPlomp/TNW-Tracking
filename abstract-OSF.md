@@ -26,12 +26,12 @@ Please bring your examples, recommended practices and questions (and answers!) t
 Max 30 participants (capped by organisation)
 
 ~ 15 minutes case studies
-Meron
-Esther
-Other examples? -> add post-its to the example sheet? flyer and forms? (flyer also allows for input from other people at the festival!) 
+Meron (5 min), also highlight the flyer/form to add examples of research object tracking (which can also be shared outside of the session)
+Esther (5 min)
 Announce intent to write blogpost for eScience center website
+Esther to come up with instructions for group chairs/documenters
 
-~ 30 minutes discussion (smaller groups that can each discuss a question for a while - move to a different one after a while + have a facilitator per question + summary at the end)
+~ 20 minutes discussion (smaller groups that can each discuss a question for a while - move to a different one after a while + have a facilitator per question + summary at the end)
 - Should we track research objects (what are the disadvantages?)? 
 - In what way would tracking of research objects nurture a culture of sharing research outputs? 
 - What (existing) technological infrastructure would be needed to effectively track research objects? (will this follow the FAIR principles? Do we need other tools?)
@@ -49,6 +49,7 @@ Announce intent to write blogpost for eScience center website
 List of participants? Not possible due to GDPR - we can ask the participants about taking ownership during the session itself
 Screen for case study presentations at start - check
 Sheets/flipovers, markers, post-its - check
+shared google doc for notes - Esther to set up
 
 **Next meeting**
 8 October, to further prep session and clarify details
