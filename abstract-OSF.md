@@ -26,7 +26,7 @@ Please bring your examples, recommended practices and questions (and answers!) t
 Max 30 participants (capped by organisation)
 
 ~ 15 minutes case studies
-Meron (5 min), also highlight the flyer/form to add examples of research object tracking (which can also be shared outside of the session)
+Meron (5 min), also highlight the [flyer](https://docs.google.com/document/d/1RW1JcT48U-DYK_OnEJdcY0hUnr_wcBWAzsUDWOWnAvs/edit?usp=sharing)/[form](https://docs.google.com/forms/d/1JQtMFMM9IJs6EJRzCJNXwUBrq3Np5CYC-LzUVpnOKj0) to add examples of research object tracking (which can also be shared outside of the session)
 Esther (5 min)
 Announce intent to write blogpost for eScience center website
 Esther to come up with instructions for group chairs/documenters
@@ -38,6 +38,8 @@ Esther to come up with instructions for group chairs/documenters
 - How can we balance quantitative and qualitative metrics in the evaluation of research objects?
 - What would you use research object tracking for? How can tracking research objects promote equity and inclusion within the research community?
 - Question from audience?
+
+Take notes in [shared document](https://docs.google.com/document/d/1AI3mQPdWorEjrbJgAzJArS2arRGkZ8vV5ZpB5YLyd0c/edit?usp=sharing).
 
 ~ 10 min recap
 
