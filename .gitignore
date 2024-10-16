@@ -1,3 +1,7 @@
+
+# fetched documents
+*.pdf
+
 # files for JetBrains editors:
 **/*.iml
 .idea

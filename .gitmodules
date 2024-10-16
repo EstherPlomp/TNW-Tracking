@@ -1,0 +1,3 @@
+[submodule "find_by_pdf_content/pure_text_analysis"]
+	path = find_by_pdf_content/pure_text_analysis
+	url = https://github.com/meronvermaas/PURE_fulltext_analysis.git
