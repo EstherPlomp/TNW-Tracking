@@ -9,7 +9,22 @@ Evaluation of researcher performance is currently a contested subject within aca
 
 ## Approach ⚙
 
-Diagram goes here
+The approach used to try to get an idea of how 'well' the faculty is doing is given below. One would manually request a list of DOIs of articles published by the department.
+
+Note that the pdf text content search uses [existing work by Meron Vermaas](https://github.com/meronvermaas/PURE_fulltext_analysis/tree/main)
+
+```mermaid
+graph TD;
+    DOIs-->dd[Search Citations];
+    crossref-->de[Find Dataset References]
+    datacite-->de[Find Dataset References]
+    dd[Search Citations]-->de[Find Dataset References]
+    DOIs-->df[Download PDF];
+    PURE-->df[Download PDF];
+    df[Download PDF]-->dg[Search for keywords]
+    dg[Search for keywords]-->dh[Guage Open Sciene Progress];
+    de[Find Dataset References]-->dh[Guage Open Sciene Progress];  
+```
 
 ## Setup 📦
 
