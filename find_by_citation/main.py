@@ -208,7 +208,7 @@ def get_and_save_output(doi, output):
 	  
 ## Main Matter
 
-with open('dois.yaml', 'r') as file:
+with open('../dois.yaml', 'r') as file:
     all_dois = yaml.safe_load(file)["dois"]
     
 output = dict()

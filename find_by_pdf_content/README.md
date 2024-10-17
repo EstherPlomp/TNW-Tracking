@@ -6,3 +6,8 @@ Since we are starting from a list of DOIs, we cannot use the `pure_harvester` th
 
 
 
+## TODO
+
+Did the API change in the time since Meron's code, or am I querying a different version somehow? Some fields have different names now. Don't know how to specify API version for PURE.
+
+There are still some issues with the `data_doi` bits. You can comment the sections in the submodule, but a more proper fix is required
