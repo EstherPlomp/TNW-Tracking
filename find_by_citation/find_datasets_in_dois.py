@@ -211,6 +211,8 @@ def get_and_save_output(doi, output):
 with open('../dois.yaml', 'r') as file:
     all_dois = yaml.safe_load(file)["dois"]
     
+print(len(all_dois))
+
 output = dict()
 # 5 is the max, because Crossref only allows max 5 parallel connections
 with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
@@ -221,7 +223,17 @@ executor.shutdown(wait=True, cancel_futures=False)
 print('Full report:')
 print(output)
 
+with open('output/full_results.yml', 'w') as outfile:
+    yaml.dump(output, outfile, default_flow_style=False)
+
+# collect only those entries that have a matching dataset (and hence a non-empty value for the dict val)
+matches = {k: v for k, v in output.items() if v}
+
 print('Report with matches only, line by line:')
-for doi, matches in output.items():
-	if len(matches) > 0:
-		print(doi, ':', matches)
+print(matches)
+
+with open('output/matches_results.yml', 'w') as outfile:
+    yaml.dump(matches, outfile, default_flow_style=False)
+            
+
+

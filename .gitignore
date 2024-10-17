@@ -5,3 +5,6 @@
 # files for JetBrains editors:
 **/*.iml
 .idea
+
+# other
+.temp/*
