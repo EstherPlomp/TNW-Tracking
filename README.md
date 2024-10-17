@@ -7,6 +7,43 @@ Evaluation of researcher performance is currently a contested subject within aca
 ## Proposal
 [eScience Center Fellowship Programme 2024: Application Form Esther Plomp](https://doi.org/10.5281/zenodo.10939832)
 
+## Approach ⚙
+
+Diagram goes here
+
+## Setup 📦
+
+**Python**
+
+All the code is run by a Python frontend. Code is tested on Python `3.10.15`
+
+I suggest you create a new virtual environment and then install the required packages and dependencies into it using:
+
+```shell
+python setup.py
+```
+
+**PURE information**
+
+You will also need to specify the pure server URL and provide an authentication token. These are entered in [pure-credentials.yaml](pure-credentials.yaml)
+
+**DOIs**
+
+Finally, you have to provide a list of DOIs that the scripts will use as input. These are to be entered into [dois.yaml](dois.yaml)
+
+## Running 🚀
+
+To run the analysis on your list of DOIs, you can simply call the following in the root directory:
+
+```shell
+python main.py
+```
+
+> [!IMPORTANT]  
+> The code is very much not optimised, and it may take quite a while to run, depending on how many DOIs you want evaluated. On a fast laptop it takes around 10 minutes for 80 DOIs.
+
+# Prior Art ⬇
+
 
 ## Relevant keywords for TNW
 
@@ -104,4 +141,3 @@ https://github.com/meronvermaas/PURE_fulltext_analysis
 
 ## TNW Software
 - [DIPlib](https://diplib.org/contributors.html) ImPhys (Bernd Rieger, Ronald Ligteringen) (found via softcite dataset)
-- 
