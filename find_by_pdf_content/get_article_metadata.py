@@ -5,6 +5,8 @@ import warnings
 import os
 import pandas as pd
 import numpy as np
+import concurrent.futures
+
 
 # convert the list of DOI into a formatted JSON in the same format that
 # https://github.com/meronvermaas/PURE_fulltext_analysis/tree/main/pure_harvester would do
@@ -39,84 +41,87 @@ def get_pure_metadata(doi, base_url, api_key):
     
     return metadata
 
+def process_doi(doi, base_url, api_key, metadata):
+    result = get_pure_metadata(doi, base_url, api_key)
+    print(f'doing doi: {doi}')
+
+    headers = {
+        'Accept': 'application/json',
+        'api-key': api_key
+    }
+    
+    for count, item in enumerate(result['items']):
+        if 'electronicVersions' in item:
+            for eversion in item['electronicVersions']:
+                if 'file' in eversion:                        
+                    req_url = requests.get(eversion['file']['url'], headers=headers)
+                    pub_path = os.path.join("pure_text_analysis/output", item['uuid'])
+                    os.makedirs(pub_path, exist_ok=True)
+                    # check length path + filename, should not exceed 255 characters
+                    path_length = len(f'{os.getcwd()}/{pub_path}/{eversion["file"]["fileName"]}')
+                    if path_length > 255:
+                        eversion["file"]["fileName"] = eversion["file"]["fileName"][path_length-255:]
+                    # download file
+                    print(pub_path, eversion["file"]["fileName"], f'{pub_path}/{eversion["file"]["fileName"]}')
+                    with open(f'{pub_path}/{eversion["file"]["fileName"].rsplit("/", 1)[-1]}', 'wb') as f:
+                        f.write(req_url.content)
+        #metadata: organisations, year, uuids (datasets)
+        # organisations
+        organisations_str = None
+        organisations_names_str = None
+        if 'organisationalUnits' in item:
+            organisations = []
+            organisations_names = []
+            for organisation in item['organisationalUnits']:
+                # contains external organisations as well
+                organisations.append(organisation['uuid'])
+                organisations_names.append(organisation['name']['text'][0]['value'])
+            organisations_str = '|'.join(organisations)
+            organisations_names_str = '|'.join(organisations_names)
+                    # year
+        pub_year = ''
+        epub_year = ''
+        for pubstatus in item['publicationStatuses']:
+            pubstatus_text = pubstatus['publicationStatus']['term']['en_GB']
+            # TODO figure out why this is breaking; did the API format change?
+            # for text in pubstatus['publicationStatus']['term']['text']:
+            #     if text['locale'] == 'en_GB':
+            #         pubstatus_text = text['value']
+            if pubstatus_text == 'E-pub ahead of print':
+                epub_year = pubstatus['publicationDate']['year']
+            elif pubstatus_text == 'Published':
+                pub_year = pubstatus['publicationDate']['year']
+                print(pub_year)
+        # datasets
+        datasets_str = None
+        if 'relatedDataSets' in item:
+            datasets = []
+            for dataset in item['relatedDataSets']:
+                datasets.append(dataset['uuid'])
+            datasets_str = '|'.join(datasets)
+        
+        metadata.append({'uuid': item['uuid'],
+                'pub_year': pub_year,
+                'epub_year': epub_year,
+                'organisations': organisations_str,
+                'organisations_names': organisations_names_str,
+                'datasets': datasets_str,
+                'doi':doi})
+
 
 def get_article_metadata(dois, base_url, api_key):
-    '''Fetch the metdata information associated with a DOI as returned by the PURE API and format
+    '''Fetch the metdata information associated with a list of DOIs as returned by the PURE API and format
     it for downstream analysis.
     
     Code is almost verbatim copy of the get_outputs of https://github.com/meronvermaas/PURE_fulltext_analysis/blob/main/pure_harvester/outputs_api.py'''
 
     metadata = []
-    failed = 0  # how many DOIs yield no results
 
-    for doi in dois:
-        # TODO: run in parallel
-        result = get_pure_metadata(doi, base_url, api_key)
-        if result['count'] == 0: failed +=1
-
-        headers = {
-            'Accept': 'application/json',
-            'api-key': api_key
-        }
-        
-        for count, item in enumerate(result['items']):
-            if 'electronicVersions' in item:
-                for eversion in item['electronicVersions']:
-                    if 'file' in eversion:                        
-                        req_url = requests.get(eversion['file']['url'], headers=headers)
-                        pub_path = os.path.join("pure_text_analysis/output", item['uuid'])
-                        os.makedirs(pub_path, exist_ok=True)
-                        # check length path + filename, should not exceed 255 characters
-                        path_length = len(f'{os.getcwd()}/{pub_path}/{eversion["file"]["fileName"]}')
-                        if path_length > 255:
-                            eversion["file"]["fileName"] = eversion["file"]["fileName"][path_length-255:]
-                        # download file
-                        print(pub_path, eversion["file"]["fileName"], f'{pub_path}/{eversion["file"]["fileName"]}')
-                        with open(f'{pub_path}/{eversion["file"]["fileName"].rsplit("/", 1)[-1]}', 'wb') as f:
-                            f.write(req_url.content)
-            #metadata: organisations, year, uuids (datasets)
-            # organisations
-            organisations_str = None
-            organisations_names_str = None
-            if 'organisationalUnits' in item:
-                organisations = []
-                organisations_names = []
-                for organisation in item['organisationalUnits']:
-                    # contains external organisations as well
-                    organisations.append(organisation['uuid'])
-                    organisations_names.append(organisation['name']['text'][0]['value'])
-                organisations_str = '|'.join(organisations)
-                organisations_names_str = '|'.join(organisations_names)
-                        # year
-            pub_year = ''
-            epub_year = ''
-            for pubstatus in item['publicationStatuses']:
-                pubstatus_text = pubstatus['publicationStatus']['term']['en_GB']
-                # TODO figure out why this is breaking; did the API format change?
-                # for text in pubstatus['publicationStatus']['term']['text']:
-                #     if text['locale'] == 'en_GB':
-                #         pubstatus_text = text['value']
-                if pubstatus_text == 'E-pub ahead of print':
-                    epub_year = pubstatus['publicationDate']['year']
-                elif pubstatus_text == 'Published':
-                    pub_year = pubstatus['publicationDate']['year']
-                    print(pub_year)
-            # datasets
-            datasets_str = None
-            if 'relatedDataSets' in item:
-                datasets = []
-                for dataset in item['relatedDataSets']:
-                    datasets.append(dataset['uuid'])
-                datasets_str = '|'.join(datasets)
-            metadata.append({'uuid': item['uuid'],
-                                'pub_year': pub_year,
-                                'epub_year': epub_year,
-                                'organisations': organisations_str,
-                                'organisations_names': organisations_names_str,
-                                'datasets': datasets_str,
-                                'doi':doi})
-    print(f'\n::: Out of {len(dois)} DOIs provided, {failed} did not return any results!')
-
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+        for doi in dois:
+            executor.submit(process_doi, doi, base_url, api_key, metadata)
+             
+    executor.shutdown(wait=True, cancel_futures=False)  # wait for workers to finish
     return metadata
 
 
