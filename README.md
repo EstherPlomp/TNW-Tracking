@@ -46,6 +46,9 @@ You will also need to specify the pure server URL and provide an authentication 
 
 You can specify the keywords you want to look for in the [keywords.txt](find_by_pdf_content/keywords.txt) file in the [find_by_pdf_content](find_by_pdf_content) directory. Articles whose pdf contents contain those keywords will have this listed in the final output files.
 
+> [!NOTE]
+> The `requirements.txt` file contains a list of keywords, split into two separate groups (delimited by `()`). For the first group, the script will try to find and extract also urls in the code that contain this keyword. Useful for something like e.g. GitHub.
+
 **DOIs**
 
 Finally, you have to provide a list of DOIs that the scripts will use as input. These are to be entered into [dois.yaml](dois.yaml)
