@@ -44,7 +44,7 @@ run_script(os.path.join('find_by_citation', 'find_datasets_in_dois.py'))
 run_script(os.path.join('find_by_pdf_content', 'get_article_metadata.py'))
 # we set the input to be the output dir (which was output of previous step) and the output of
 # the script to the output directory of [find_by_pdf_content]. Very sane and not confusing.
-run_module(os.path.join('find_by_pdf_content', 'pure_text_analysis', 'pure_scraper'), 'output', '../output')
+run_module(os.path.join('find_by_pdf_content', 'pure_text_analysis', 'pure_scraper'), 'output', '../output', '../keywords.txt')
 
 ### Process results
 

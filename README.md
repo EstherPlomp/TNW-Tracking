@@ -22,8 +22,8 @@ graph TD;
     DOIs-->df[Download PDF];
     PURE-->df[Download PDF];
     df[Download PDF]-->dg[Search for keywords]
-    dg[Search for keywords]-->dh[Guage Open Sciene Progress];
-    de[Find Dataset References]-->dh[Guage Open Sciene Progress];  
+    dg[Search for keywords]-->dh[Guage Open Science Progress];
+    de[Find Dataset References]-->dh[Guage Open Science Progress];  
 ```
 
 ## Setup 📦
@@ -42,6 +42,10 @@ python setup.py
 
 You will also need to specify the pure server URL and provide an authentication token. These are entered in [pure-credentials.yaml](pure-credentials.yaml)
 
+**Keywords**
+
+You can specify the keywords you want to look for in the [keywords.txt](find_by_pdf_content/keywords.txt) file in the [find_by_pdf_content](find_by_pdf_content) directory. Articles whose pdf contents contain those keywords will have this listed in the final output files.
+
 **DOIs**
 
 Finally, you have to provide a list of DOIs that the scripts will use as input. These are to be entered into [dois.yaml](dois.yaml)
@@ -53,6 +57,8 @@ To run the analysis on your list of DOIs, you can simply call the following in t
 ```shell
 python main.py
 ```
+
+Of course you can run the different steps individually. Have a look at the contents of `main.py` to see what commands and arguments are required for each command.
 
 > [!IMPORTANT]  
 > The code is very much not optimised, and it may take quite a while to run, depending on how many DOIs you want evaluated. On a fast laptop it takes around 10 minutes for 80 DOIs.
