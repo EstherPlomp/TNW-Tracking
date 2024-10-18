@@ -48,5 +48,5 @@ run_module(os.path.join('find_by_pdf_content', 'pure_text_analysis', 'pure_scrap
 
 ### Process results
 
-
+run_script(os.path.join('process_output.py.py'))
 

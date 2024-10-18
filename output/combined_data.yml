@@ -1,0 +1,339 @@
+10.1002/adbi.202200172: []
+10.1002/adbi.202300105: []
+10.1002/adma.202305505: []
+10.1002/smtd.202300258:
+- keywords:
+  - matlab
+10.1002/smtd.202300416:
+- keywords:
+  - excel
+10.1016/j.actbio.2022.12.009:
+- keywords:
+  - python
+  - matlab
+  - nwo
+10.1016/j.bioadv.2023.213289:
+- keywords:
+  - r core team
+  - nwo
+10.1016/j.bpj.2023.02.018:
+- git repositories:
+  - github.com/BioSoftMatterGroup/actin-curvature-sensing
+- keywords:
+  - github
+  - python
+10.1016/j.bpj.2023.11.008:
+- git repositories:
+  - gitlab.tudelft.nl/
+- keywords:
+  - gitlab
+  - python
+  - nwo
+10.1016/j.cell.2023.01.041: []
+10.1016/j.celrep.2023.113284:
+- keywords:
+  - matlab
+  - nwo
+10.1016/j.isci.2023.105958:
+- keywords:
+  - erc
+10.1016/j.isci.2023.108268:
+- keywords:
+  - matlab
+  - nwo
+  - erc
+10.1016/j.ohx.2023.e00428:
+- keywords:
+  - nwo
+  - erc
+10.1016/j.optcom.2023.129474:
+- keywords:
+  - nwo
+10.1016/j.optcom.2023.129548:
+- git repositories:
+  - github.com/dfanology/TIRFscan
+- keywords:
+  - github
+  - python
+  - nwo
+10.1016/j.tibtech.2022.08.008:
+- keywords:
+  - erc
+10.1016/j.tim.2022.12.006:
+- keywords:
+  - erc
+10.1016/j.xcrp.2023.101552:
+- keywords:
+  - shell
+  - matlab
+10.1016/j.xplc.2023.100716: []
+10.1021/acs.biomac.2c01405:
+- keywords:
+  - python
+  - shell
+10.1021/acs.chemmater.3c00502:
+- keywords:
+  - shell
+10.1021/acs.jpcc.3c03815:
+- keywords:
+  - nwo
+  - erc
+10.1021/acs.nanolett.3c02630:
+- keywords:
+  - shell
+  - nwo
+10.1021/acsnano.3c05959:
+- cited:
+  - 10.5281/zenodo.8060099
+- keywords:
+  - matlab
+  - nwo
+  - erc
+  - cited_data
+10.1021/acssynbio.2c00668:
+- keywords:
+  - matlab
+10.1021/acssynbio.3c00074: []
+10.1038/s41467-023-35997-0:
+- cited:
+  - 10.5281/zenodo.7339803
+- keywords:
+  - cited_data
+10.1038/s41467-023-37093-9:
+- git repositories:
+  - github.com/pykalman/
+  - gitlab
+- keywords:
+  - github
+  - gitlab
+  - python
+  - nwo
+10.1038/s41467-023-37910-1: []
+10.1038/s41467-023-42100-0: []
+10.1038/s41467-023-42524-8:
+- git repositories:
+  - gitlab
+- keywords:
+  - gitlab
+  - python
+  - nwo
+10.1038/s41467-023-43440-7:
+- cited:
+  - 10.5281/zenodo.10033943
+- git repositories:
+  - github.com/kibb/LINA/
+- keywords:
+  - github
+  - python
+  - shell
+  - matlab
+  - cited_data
+10.1038/s41564-023-01501-z:
+- keywords:
+  - python
+  - nwo
+  - erc
+10.1038/s41565-023-01510-3:
+- keywords:
+  - python
+  - erc
+10.1038/s41565-023-01527-8:
+- keywords:
+  - shell
+  - matlab
+  - erc
+10.1038/s41580-023-00686-9:
+- keywords:
+  - erc
+10.1038/s41586-023-05961-5:
+- keywords:
+  - python
+  - matlab
+  - nwo
+  - erc
+10.1038/s41587-023-01839-z:
+- cited:
+  - 10.57760/sciencedb.08338
+- keywords:
+  - matlab
+  - nwo
+  - cited_data
+10.1038/s41589-022-01225-x:
+- git repositories:
+  - github.com/youklab/
+- keywords:
+  - github
+  - matlab
+10.1038/s41598-023-27734-w:
+- keywords:
+  - github
+  - erc
+10.1038/s41598-023-35359-2:
+- keywords:
+  - python
+  - nwo
+  - erc
+10.1038/s41598-023-39829-5: []
+10.1038/s41598-023-43682-x:
+- keywords:
+  - shell
+  - nwo
+  - erc
+10.1038/s41598-023-49101-5:
+- keywords:
+  - github
+  - nwo
+10.1039/d2lc01060g:
+- keywords:
+  - github
+  - python
+  - excel
+  - nwo
+  - erc
+10.1039/d2sm01562e:
+- keywords:
+  - nwo
+  - erc
+10.1039/d3py00075c:
+- keywords:
+  - swift
+  - lisa&surf
+  - erc
+  - mindful
+10.1083/jcb.202208062:
+- git repositories:
+  - github.com/ngudimchuk/Process-PFs
+  - github.com/EMBL-ICLM/microtubule_width_
+  - github.com/
+  - github.com/ngudimchuk/
+- keywords:
+  - github
+  - python
+  - matlab
+  - excel
+10.1088/2050-6120/acfb58: []
+10.1093/bioadv/vbad017:
+- git repositories:
+  - github.com/cvdelannoy/coa_classifier
+- keywords:
+  - github
+  - gitlab
+  - python
+  - nwo
+10.1093/nar/gkad1055:
+- keywords:
+  - python
+  - matlab
+  - nwo
+10.1093/nar/gkad171:
+- git repositories:
+  - github.com/deLaatLab/PCNA-NAQ-seq
+- keywords:
+  - github
+  - excel
+  - erc
+10.1093/nar/gkad868:
+- keywords:
+  - python
+  - nwo
+10.1098/rstb.2022.0044:
+- git repositories:
+  - github.com/BIDS/colormap/blob/master/
+- keywords:
+  - github
+  - matlab
+  - erc
+10.1099/mgen.0.000968:
+- git repositories:
+  - github.com/lbobay/CoreCruncher
+- keywords:
+  - github
+  - erc
+10.1103/PhysRevB.108.L081401:
+- keywords:
+  - nwo
+10.1103/PhysRevLett.131.124001:
+- keywords:
+  - shell
+  - matlab
+10.1103/PhysRevX.13.021010:
+- git repositories:
+  - github.com/luca-tubiana/kDNA-border-simsURL
+- keywords:
+  - github
+  - python
+  - erc
+10.1122/8.0000559:
+- keywords:
+  - shell
+10.1126/sciadv.add6480:
+- keywords:
+  - nwo
+10.1126/science.adi8308: []
+10.1146/annurev-biochem-032620-110506: []
+10.1242/jcs.259639: []
+10.1242/jcs.260154:
+- git repositories:
+  - "github.com/\uFB02orian-huber/mtdynamics"
+  - github.com/ngudimchuk/Process-PFs
+  - github.com/NemoAndrea/cryoCARE-hpc04
+- keywords:
+  - github
+  - python
+  - shell
+  - matlab
+  - high-performance computing
+10.1364/OE.505958:
+- git repositories:
+  - github.com/qnano/VectorialPSF
+  - github.com/qnano/zimflux
+- keywords:
+  - github
+  - nwo
+10.1371/journal.pone.0291625:
+- git repositories:
+  - github.com/AlexeyAB/darknet
+  - github.com/heartexlabs/labelImg
+  - gitlab.tudelft.nl/nynke-dekker-lab/public/cell-counter/-/tree/
+  - gitlab.tudelft
+  - gitlab.tudelft.nl/nynke-dekker-
+- keywords:
+  - github
+  - gitlab
+10.15252/embj.2022112504:
+- keywords:
+  - gogs
+10.20517/evcna.2023.26:
+- keywords:
+  - nwo
+10.3389/fbioe.2022.1110376:
+- keywords:
+  - citizen science
+  - citizen engagement
+10.3389/fmicb.2023.1076570:
+- git repositories:
+  - broadinstitute.github.io/picard/
+- keywords:
+  - github
+  - matlab
+  - erc
+10.3389/fmicb.2023.1107093:
+- keywords:
+  - matlab
+  - erc
+10.3389/fonc.2022.1101901:
+- keywords:
+  - nwo
+10.7554/eLife.85183:
+- keywords:
+  - nwo
+10.7554/eLife.87174.1:
+- cited:
+  - 10.4121/22059227
+  - 10.4121/21027850
+  - 10.4121/12888551.v1
+- keywords:
+  - python
+  - nwo
+  - erc
+  - cited_data
