@@ -50,6 +50,7 @@ def get_article_metadata(dois, base_url, api_key):
     failed = 0  # how many DOIs yield no results
 
     for doi in dois:
+        # TODO: run in parallel
         result = get_pure_metadata(doi, base_url, api_key)
         if result['count'] == 0: failed +=1
 
@@ -112,7 +113,8 @@ def get_article_metadata(dois, base_url, api_key):
                                 'epub_year': epub_year,
                                 'organisations': organisations_str,
                                 'organisations_names': organisations_names_str,
-                                'datasets': datasets_str})
+                                'datasets': datasets_str,
+                                'doi':doi})
     print(f'\n::: Out of {len(dois)} DOIs provided, {failed} did not return any results!')
 
     return metadata
@@ -137,6 +139,7 @@ if __name__ == '__main__':
 
     # and as a dataframe CSV
     df = pd.DataFrame(metadata)
+    df.drop_duplicates(subset="uuid")  # safety check
     #df["data_doi"] = np.nan  # TODO: bit of a dirty fix to try to prevent issues later
     df.to_csv(f'pure_text_analysis/output/merge.csv', index=False)
 
