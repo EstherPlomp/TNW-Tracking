@@ -223,7 +223,7 @@ executor.shutdown(wait=True, cancel_futures=False)
 print('Full report:')
 print(output)
 
-with open('output/full_results.yml', 'w') as outfile:
+with open('output/full_results.yaml', 'w') as outfile:
     yaml.dump(output, outfile, default_flow_style=False)
 
 # collect only those entries that have a matching dataset (and hence a non-empty value for the dict val)
@@ -232,7 +232,7 @@ matches = {k: v for k, v in output.items() if v}
 print('Report with matches only, line by line:')
 print(matches)
 
-with open('output/matches_results.yml', 'w') as outfile:
+with open('output/matches_results.yaml', 'w') as outfile:
     yaml.dump(matches, outfile, default_flow_style=False)
             
 
