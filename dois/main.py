@@ -2,6 +2,7 @@ import threading
 
 import requests
 import concurrent.futures
+import csv
 
 
 # from unidecode import unidecode
@@ -11,7 +12,7 @@ import concurrent.futures
 def get_crossref_info(doi):
 	url = f"https://api.crossref.org/works/{doi}"
 	try:
-		response = requests.get(url, timeout=10)
+		response = requests.get(url, timeout=30)
 	except:
 		print('timeout or error getting Crossref info for:', url)
 		return None
@@ -70,7 +71,7 @@ def extract_doi_registration_agency(dois):
 	dois_joined = ','.join(dois)
 	url = f"https://doi.org/doiRA/{dois_joined}"
 	try:
-		response = requests.get(url, timeout=10)
+		response = requests.get(url, timeout=30)
 	except:
 		print('timeout or error getting DOI RA info for:', url)
 		return dict()
@@ -85,7 +86,7 @@ def extract_doi_registration_agency(dois):
 def get_datacite_metadata(doi):
 	url = f"https://api.datacite.org/dois/{doi}"
 	try:
-		response = requests.get(url)
+		response = requests.get(url, timeout=30)
 	except:
 		print('timeout or error getting metadata for:', url)
 		return None
@@ -149,94 +150,6 @@ def get_matching_objects(doi):
 	return matching_dois
 
 
-all_dois = [
-	'10.1021/acssynbio.2c00668',
-	'10.1038/s41580-023-00686-9',
-	'10.1093/synbio/ysad006',
-	'10.1038/s41598-023-43682-x',
-	'10.1021/acs.nanolett.3c02630',
-	'10.1039/d2sm01562e',
-	'10.1038/s41467-023-37910-1',
-	'10.1016/j.bpj.2023.02.018',
-	'10.1038/s41598-023-35359-2',
-	'10.1016/j.tim.2022.12.006',
-	'10.1039/d2lc01060g',
-	'10.1038/s41467-023-42100-0',
-	'10.1038/s41564-023-01501-z',
-	'10.1098/rstb.2022.0044',
-	'10.1038/s41589-022-01225-x',
-	'10.1038/s41586-023-05961-5',
-	'10.1038/s41565-023-01510-3',
-	'10.1016/j.bpj.2022.11.1824',
-	'10.1016/j.bpj.2022.11.1828',
-	'10.1126/science.adi8308',
-	'10.1016/j.bpj.2022.11.1664',
-	'10.1016/j.jtha.2023.06.011',
-	'10.1038/s41598-023-27734-w',
-	'10.1016/j.optcom.2023.129548',
-	'10.1242/jcs.259639',
-	'10.1002/adbi.202200172',
-	'10.1021/acssynbio.3c00074',
-	'10.1103/PhysRevX.13.021010',
-	'10.3389/fbioe.2022.1110376',
-	'10.1016/j.cell.2023.01.041',
-	'10.1038/s41467-023-43440-7',
-	'10.3389/fmicb.2023.1107093',
-	'10.1016/j.bpj.2022.11.1716',
-	'10.1146/annurev-biochem-032620-110506',
-	'10.3389/fmicb.2023.1076570',
-	'10.1016/j.bpj.2022.11.1071',
-	'10.7554/eLife.87174.1',
-	'10.1093/nar/gkad1055',
-	'10.1371/journal.pone.0291625',
-	'10.1039/d3py00075c',
-	'10.1103/PhysRevB.108.L081401',
-	'10.1021/acs.biomac.2c01405',
-	'10.1016/j.tibtech.2022.08.008',
-	'10.1099/mgen.0.000968',
-	'10.1016/j.jtha.2023.10.025',
-	'10.1016/j.optcom.2023.129474',
-	'10.1038/s41467-023-35997-0',
-	'10.1021/acs.chemmater.3c00502',
-	'10.1122/8.0000559',
-	'10.1103/PhysRevLett.131.124001',
-	'10.1242/jcs.260154',
-	'10.1093/bioadv/vbad017',
-	'10.1038/s41587-023-01839-z',
-	'10.1002/adma.202305505',
-	'10.1088/2050-6120/acfb58',
-	'10.15252/embj.2022112504',
-	'10.1038/s41467-023-37093-9',
-	'10.1016/j.bpj.2023.11.008',
-	'10.20517/evcna.2023.26',
-	'10.1016/j.isci.2023.108268',
-	'10.1093/nar/gkad171',
-	'10.1016/j.xplc.2023.100716',
-	'10.1016/j.xcrp.2023.101552',
-	'10.1002/adbi.202300105',
-	'10.1038/s41565-023-01527-8',
-	'10.1016/j.isci.2023.105958',
-	'10.1002/smtd.202300258',
-	'10.1038/s41467-023-42524-8',
-	'10.1093/nar/gkad868',
-	'10.1016/j.ohx.2023.e00428',
-	'10.1364/OE.505958',
-	'10.1038/s41598-023-39829-5',
-	'10.1016/j.celrep.2023.113284',
-	'10.1021/acs.jpcc.3c03815',
-	'10.1021/acsnano.3c05959',
-	'10.1126/sciadv.add6480',
-	'10.1016/j.bpj.2022.11.1695',
-	'10.1016/j.actbio.2022.12.009',
-	'10.1038/s41598-023-49101-5',
-	'10.1016/j.bioadv.2023.213289',
-	'10.3389/fonc.2022.1101901',
-	'10.1002/smtd.202300416',
-	'10.1083/jcb.202208062',
-	'10.7554/eLife.85183',
-]
-
-
 def get_and_save_output(doi, output, file, lock):
 	print('Trying doi', doi)
 	result = get_matching_objects(doi)
@@ -250,9 +163,16 @@ def get_and_save_output(doi, output, file, lock):
 		print('no matches found')
 
 
+all_dois = []
+### EDIT THIS LINE BEFORE RUNNING TO ADAPT THE INPUT FILE ###
+with open('./20241016-TNW_Articles_2020-2023_DOI-GH.csv') as csv_file:
+	csv_reader = csv.DictReader(csv_file)
+	for line in csv_reader:
+		all_dois.append(line['DOI'])
+
 output = dict()
-### EDIT THIS LINE BEFORE RUNNING ###
-matches_output_file = open('./20241016-TNW_Articles_2020-2023_DOI-GH-result-matches.txt', 'a', buffering=1)
+### EDIT THIS LINE BEFORE RUNNING TO ADAPT THE OUTPUT FILE ###
+matches_output_file = open('./20241016-TNW_Articles_2020-2023_DOI-GH-result-matches.txt', 'w', buffering=1)
 lock = threading.Lock()
 # 5 is the max, because Crossref only allows max 5 parallel connections
 with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
