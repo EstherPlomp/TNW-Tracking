@@ -55,7 +55,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 01b7743d-7174-434c-a47e-ee2e705875a7,2024.0,,,,,10.1016/j.seppur.2021.118656,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 01b7743d-7174-434c-a47e-ee2e705875a7,2024.0,,,,,10.1016/j.seppur.2023.124320,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 01bd5cab-ea10-4ee7-855f-91f547ef346b,2019.0,,,,,10.1016/j.seppur.2019.116347,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-01e07770-75f4-4f3c-9d37-8ff6616b0974,2020.0,,,,,10.1103/PhysRevA.102.053721,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
+01e07770-75f4-4f3c-9d37-8ff6616b0974,2020.0,,,,,10.1103/PhysRevA.102.053721,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,10.5281/zenodo.3956080
 01eb8725-c489-4481-ae21-a4e84ce128c4,2021.0,,,,,10.1016/j.cmpb.2021.106312,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 0203babb-e491-4119-9069-7e4036e89dc0,2021.0,,,,,10.1038/s41565-021-00994-1,,,,,,,,,,,True,True,,,,,True,,,,,,,,,,
 020730d7-ab85-4ebf-b8cf-fd3dd579d0ad,2022.0,,,,,10.21468/SciPostPhysCore.5.1.005,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -207,7 +207,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 08073612-8625-4dd3-87fb-912693c32ca5,2022.0,,,,,10.1016/j.watres.2019.115291,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 08073612-8625-4dd3-87fb-912693c32ca5,2022.0,,,,,10.1016/j.jenvman.2022.115191,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 0817df44-5800-4f89-ad86-8b1a9b72b419,2022.0,,,,,10.1002/aenm.202103921,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-085cdc21-ea1e-45c9-bfa7-fc412e72a960,2021.0,,,,,10.1088/2053-1583/ac0b48,,,,,,,,,,,True,True,,,,,,True,,,,,,,,,
+085cdc21-ea1e-45c9-bfa7-fc412e72a960,2021.0,,,,,10.1088/2053-1583/ac0b48,,,,,,,,,,,True,True,,,,,,True,,,,,,,,,10.5281/zenodo.4685132
 085cdc21-ea1e-45c9-bfa7-fc412e72a960,2021.0,,,,,10.1088/2053-1583/abbc5f,,,,,,,,,,,True,True,,,,,,True,,,,,,,,,
 086bf9f2-595c-4a77-8a62-f2f228b67581,2021.0,,,,,10.1002/anie.202108037,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 08763da8-32c4-400b-b2cb-ac93fba0ae51,2023.0,,,,,10.1038/s41467-019-13891-y,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -263,7 +263,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 0b9f4780-10db-494a-a148-0b97737bcdcf,2021.0,,,,,10.1016/j.nimb.2021.06.022,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 0ba07488-a921-4e2c-93c2-7eaeb3e69762,2023.0,,,,,10.1364/OPTICA.397549,,,,,,,,,,,True,,,,,True,,,,,,,,,,,
 0ba07488-a921-4e2c-93c2-7eaeb3e69762,2023.0,,,,,10.1364/BOE.415079,,,,,,,,,,,True,,,,,True,,,,,,,,,,,
-0ba07488-a921-4e2c-93c2-7eaeb3e69762,2023.0,,,,,10.1364/AO.488543,,,,,,,,,,,True,,,,,True,,,,,,,,,,,
+0ba07488-a921-4e2c-93c2-7eaeb3e69762,2023.0,,,,,10.1364/AO.488543,,,,,,,,,,,True,,,,,True,,,,,,,,,,,10.5281/zenodo.7838373
 0ba71b5c-56c3-4830-bc5d-506538d045a3,2023.0,,,,,10.1021/acsomega.0c06130,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 0ba71b5c-56c3-4830-bc5d-506538d045a3,2023.0,,,,,10.1021/acsaem.2c00160,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 0ba7f192-5eb1-42a2-8539-fea2c0951c24,2023.0,,,,,10.1371/journal.pone.0288629,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -296,8 +296,8 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 0d0917bf-f446-46b3-9a35-d537fbe15e60,2023.0,,,,,10.1002/adfm.202102388,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 0d0917bf-f446-46b3-9a35-d537fbe15e60,2023.0,,,,,10.1038/s41467-021-25100-w,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 0d0917bf-f446-46b3-9a35-d537fbe15e60,2023.0,,,,,10.1002/adma.202202034,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-0d0917bf-f446-46b3-9a35-d537fbe15e60,2023.0,,,,,10.1021/acs.nanolett.2c04485,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-0d0b32d4-37e2-4ce4-9b49-804928712b31,2021.0,,,,,10.1038/s41467-021-24106-8,True,['github.com/imphys/'],,,,,,,,,True,True,,,,,,,,,,,,,,,
+0d0917bf-f446-46b3-9a35-d537fbe15e60,2023.0,,,,,10.1021/acs.nanolett.2c04485,,,,,,,,,,,True,,,,,,,,,,,,,,,,10.48550/arXiv.2211.14283
+0d0b32d4-37e2-4ce4-9b49-804928712b31,2021.0,,,,,10.1038/s41467-021-24106-8,True,['github.com/imphys/'],,,,,,,,,True,True,,,,,,,,,,,,,,,"10.4121/14074091.v1,10.4121/14135849.v1"
 0d0b5348-b86d-4c50-aa76-cb5555e158bd,2024.0,,,,,10.1061/(ASCE)EE.1943-7870.0001719,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 0d1e4bf0-7b44-4162-a7ec-4bff3834bedc,2021.0,,,,,10.1016/j.wroa.2019.100040,,,,,,,,,,,True,True,True,,,,,,,,,,,,,,
 0d1e4bf0-7b44-4162-a7ec-4bff3834bedc,2021.0,,,,,10.1016/j.watres.2020.116752,,,,,,,,,,,True,True,True,,,,,,,,,,,,,,
@@ -364,8 +364,8 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 1019957f-906a-4ca3-9abe-e1ae9479ef4f,2024.0,,,,,10.1103/PhysRevX.11.041025,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
 1019957f-906a-4ca3-9abe-e1ae9479ef4f,2024.0,,,,,10.1038/s41586-022-05352-2,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
 1019957f-906a-4ca3-9abe-e1ae9479ef4f,2024.0,,,,,10.1103/PhysRevLett.129.267701,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
-1019957f-906a-4ca3-9abe-e1ae9479ef4f,2024.0,,,,,10.21468/SciPostPhys.15.1.019,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
-1019957f-906a-4ca3-9abe-e1ae9479ef4f,2024.0,,,,,10.1038/s43246-023-00351-w,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
+1019957f-906a-4ca3-9abe-e1ae9479ef4f,2024.0,,,,,10.21468/SciPostPhys.15.1.019,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,10.5281/zenodo.4977422
+1019957f-906a-4ca3-9abe-e1ae9479ef4f,2024.0,,,,,10.1038/s43246-023-00351-w,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,"10.48550/arXiv.2209.06609,10.48550/arXiv.2211.06709"
 1019957f-906a-4ca3-9abe-e1ae9479ef4f,2024.0,,,,,10.1038/s41467-023-36951-w,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
 1031e57f-0d9c-4d49-b766-e3a6b05045b4,2020.0,,,,,10.3390/catal10040450,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 1041ebe7-231c-49ce-ba9a-0e5c060c9953,2020.0,,,,,10.1021/acssynbio.0c00045,True,['github.com/'],,,,,,,,,True,True,,,,,,,,,,,,True,,,
@@ -386,7 +386,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 10f46259-cf5b-4970-97ea-884b3234c8fe,2020.0,,,,,10.1021/acs.chemmater.9b04341,,,,,,,,,,,True,True,,,,,,,,,,,,True,,,
 1113090f-0df5-4df0-b0a1-2d31fa537db6,2020.0,,,,,10.1016/j.gca.2019.11.034,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 1134dddb-82fa-4619-b8ce-2e32dc4be378,2021.0,,,,,10.1016/j.memsci.2021.119686,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-113e86d5-efea-47a6-8f1e-ca8094234a7b,2022.0,,,,,10.1103/PhysRevB.106.235406,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
+113e86d5-efea-47a6-8f1e-ca8094234a7b,2022.0,,,,,10.1103/PhysRevB.106.235406,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,10.5281/zenodo.5120790
 1143d4f3-3a5f-4c44-9079-134ee9ad1b6f,2021.0,,,,,10.1038/s41567-020-0891-z,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1143d4f3-3a5f-4c44-9079-134ee9ad1b6f,2021.0,,,,,10.1038/s41567-019-0673-7,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1143d4f3-3a5f-4c44-9079-134ee9ad1b6f,2021.0,,,,,10.1063/5.0021088,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -401,7 +401,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 117e2802-59d6-49dc-bc86-be6b39b76994,2020.0,,,,,10.1016/j.apradiso.2020.109261,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 11826f05-e8e6-4458-b877-3ba032db94a4,2022.0,,,,,10.1021/acs.est.0c02436,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 11826f05-e8e6-4458-b877-3ba032db94a4,2022.0,,,,,10.1016/j.atmosenv.2022.118946,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-1186d0b3-23c5-470f-b901-0c4f6018d86e,2023.0,,,,,10.1038/s41467-023-41127-7,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
+1186d0b3-23c5-470f-b901-0c4f6018d86e,2023.0,,,,,10.1038/s41467-023-41127-7,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,10.5281/zenodo.8072537
 118b8b7d-c127-405c-a915-963aeaf90525,2023.0,,,,,10.1016/j.watres.2023.119653,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 118ec9bd-0c83-4b82-8e0e-05622df0c0b1,2022.0,,,,,10.1039/d2se00858k,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11a6a2a3-f16a-40a5-a52e-2c2faafed81f,2022.0,,,,,10.1186/s12934-022-01817-1,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -417,8 +417,8 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 12880fb3-f374-4593-9fbd-fc4f627894e2,2023.0,,,,,10.1242/jcs.259639,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 1290ce81-c0b9-4879-af30-beeea71c941d,2023.0,,,,,10.1007/s11081-023-09841-9,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 12c137ce-5f0c-4293-9705-533509f73344,2023.0,,,,,10.1039/d3cy00606a,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12c74666-d177-4c31-b208-1c20abec7340,2023.0,,,,,10.1103/PhysRevResearch.3.013288,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
-12c74666-d177-4c31-b208-1c20abec7340,2023.0,,,,,10.21468/SciPostPhys.15.5.204,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
+12c74666-d177-4c31-b208-1c20abec7340,2023.0,,,,,10.1103/PhysRevResearch.3.013288,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,10.5281/zenodo.4008550
+12c74666-d177-4c31-b208-1c20abec7340,2023.0,,,,,10.21468/SciPostPhys.15.5.204,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,10.5281/zenodo.7707544
 12c75af6-ab95-4111-908d-acb4e26caa27,2023.0,,,,,10.1103/PhysRevX.12.021026,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 12c75af6-ab95-4111-908d-acb4e26caa27,2023.0,,,,,10.1038/s41928-022-00727-9,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 12c75af6-ab95-4111-908d-acb4e26caa27,2023.0,,,,,10.1103/PhysRevLett.130.137001,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -437,9 +437,9 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 1371091b-aed7-4c37-89e2-6de1024bd3e3,2024.0,,,,,10.1103/PRXQuantum.3.040319,True,['github.com/QuTech-Delft/QuREBB'],,,,,,,,,True,True,,,,,,,,,,,,,,,
 137b9cb7-cfd0-4659-a641-426156e5e277,2022.0,,,,,10.1038/s41565-021-00958-5,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 137b9cb7-cfd0-4659-a641-426156e5e277,2022.0,,,,,10.1126/science.abl4381,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-137b9cb7-cfd0-4659-a641-426156e5e277,2022.0,,,,,10.1021/acssensors.2c01218,,,,,,,,,,,True,,,,,,,,,,,,,,,,
+137b9cb7-cfd0-4659-a641-426156e5e277,2022.0,,,,,10.1021/acssensors.2c01218,,,,,,,,,,,True,,,,,,,,,,,,,,,,10.5281/zenodo.5013856
 13e69202-4450-4808-bf5a-0d15e01885e5,2022.0,,,,,10.1038/s41586-020-2067-5,True,"['github.com/KoesGroup/', 'github.com/4ureliek/TEanalysis', 'github.com/BleekerLab/']",,,,,,,,,True,True,,,,,,,,,,,,True,,,
-1407b937-8478-4a6c-92d5-5b1d6620292d,2022.0,,,,,10.1103/PhysRevResearch.2.023335,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1407b937-8478-4a6c-92d5-5b1d6620292d,2022.0,,,,,10.1103/PhysRevResearch.2.023335,,,,,,,,,,,,,,,,,,,,,,,,,,,10.5281/zenodo.3776468
 1407b937-8478-4a6c-92d5-5b1d6620292d,2022.0,,,,,10.1103/PhysRevLett.124.107202,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1407b937-8478-4a6c-92d5-5b1d6620292d,2022.0,,,,,10.1103/PhysRevB.101.054402,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1407b937-8478-4a6c-92d5-5b1d6620292d,2022.0,,,,,10.1103/PhysRevLett.125.077203,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -448,7 +448,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 1416cb01-c223-477a-a8e5-ecef8d220b82,2023.0,,,,,10.1038/s41598-023-32740-z,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 14323797-a2b5-43f5-bb44-23f8a534e1f2,2020.0,,,,,10.1021/acsami.0c03287,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 144dc77d-b39c-46a2-87ee-39aeb70cec2a,2023.0,,,,,10.1039/d2sc00805j,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-144dc77d-b39c-46a2-87ee-39aeb70cec2a,2023.0,,,,,10.1038/s41467-022-33810-y,,,,,,,,,,,True,,,,,,,,,,,,,,,,
+144dc77d-b39c-46a2-87ee-39aeb70cec2a,2023.0,,,,,10.1038/s41467-022-33810-y,,,,,,,,,,,True,,,,,,,,,,,,,,,,10.4121/21197290.v1
 144dc77d-b39c-46a2-87ee-39aeb70cec2a,2023.0,,,,,10.1021/jacs.3c02937,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 144f811e-4596-4b0d-8e5e-99be08d59f15,2020.0,,,,,10.3390/membranes10050100,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1452fd3f-a423-46a5-89da-6eb96b648948,2020.0,,,,,10.1103/PhysRevResearch.2.023282,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -522,7 +522,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 17a14acb-820b-4515-819f-89f24bc5a745,2023.0,,,,,10.1038/s41563-019-0576-0,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 17a14acb-820b-4515-819f-89f24bc5a745,2023.0,,,,,10.1021/acsaem.2c03551,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 17a3c19a-0084-42ff-bb06-7f3d780f6c45,2024.0,,,,,10.1063/5.0056534,,,True,"['gitlab.com/softwarequtech/simulation-code-for-requirements-for-upgrading-trusted-', 'gitlab.com/softwarequtech/netsquid-snippets/', 'gitlab.com/softwarequtech/simulation-code-for-requirements-for-upgrading-trusted-', 'gitlab.com/aritoka/smart-stopos', 'gitlab.com/softwarequtech/netsquid-snippets/netsquid-simulationtools']",,,,,,,True,True,,,,,,,,,,,,,,,
-17a3c19a-0084-42ff-bb06-7f3d780f6c45,2024.0,,,,,10.1038/s41534-022-00637-w,,,True,"['gitlab.com/softwarequtech/simulation-code-for-requirements-for-upgrading-trusted-', 'gitlab.com/softwarequtech/netsquid-snippets/', 'gitlab.com/softwarequtech/simulation-code-for-requirements-for-upgrading-trusted-', 'gitlab.com/aritoka/smart-stopos', 'gitlab.com/softwarequtech/netsquid-snippets/netsquid-simulationtools']",,,,,,,True,True,,,,,,,,,,,,,,,
+17a3c19a-0084-42ff-bb06-7f3d780f6c45,2024.0,,,,,10.1038/s41534-022-00637-w,,,True,"['gitlab.com/softwarequtech/simulation-code-for-requirements-for-upgrading-trusted-', 'gitlab.com/softwarequtech/netsquid-snippets/', 'gitlab.com/softwarequtech/simulation-code-for-requirements-for-upgrading-trusted-', 'gitlab.com/aritoka/smart-stopos', 'gitlab.com/softwarequtech/netsquid-snippets/netsquid-simulationtools']",,,,,,,True,True,,,,,,,,,,,,,,,10.4121/16887658.v3
 17a3c19a-0084-42ff-bb06-7f3d780f6c45,2024.0,,,,,10.1038/s41586-022-04697-y,,,True,"['gitlab.com/softwarequtech/simulation-code-for-requirements-for-upgrading-trusted-', 'gitlab.com/softwarequtech/netsquid-snippets/', 'gitlab.com/softwarequtech/simulation-code-for-requirements-for-upgrading-trusted-', 'gitlab.com/aritoka/smart-stopos', 'gitlab.com/softwarequtech/netsquid-snippets/netsquid-simulationtools']",,,,,,,True,True,,,,,,,,,,,,,,,
 17b10288-1b31-4839-a240-cbb589e837bb,2023.0,,,,,10.1016/j.isci.2021.103239,True,['github.com/'],,,,,,,,,True,True,,,,,,,,,,,,,,,
 17b10288-1b31-4839-a240-cbb589e837bb,2023.0,,,,,10.1021/acs.nanolett.1c00725,True,['github.com/'],,,,,,,,,True,True,,,,,,,,,,,,,,,
@@ -537,9 +537,9 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 17f03f25-09e3-4b4b-8da1-742c8ea8114f,2023.0,,,,,10.1039/d2cc05625a,True,['github.com/EPiCs-group/ODE_\ue103tter'],,,,,,,,,True,True,,,,,,,,,,,,,,,
 18067279-513a-4f9e-814f-82fba5d3ee3e,2021.0,,,,,10.1109/TMI.2021.3097150,True,"['github.com/bionanoimaging/cellSTORM-', 'github.com/tinevez/simpletracker']",,,,,,,,,True,True,,,,,,,,,,,,,,,
 180772d9-4bee-4cbb-958c-c123ebde9063,2023.0,,,,,10.1016/j.watres.2022.119365,,,True,,,,,,,,True,True,,,,,,,,,,,,,,,
-180bcc96-99e1-4d0a-83bf-e04a527bd8ad,2024.0,,,,,10.1103/PhysRevLett.125.086802,,,,,,,,,,,True,,,,,True,,,,,,,,,,,
+180bcc96-99e1-4d0a-83bf-e04a527bd8ad,2024.0,,,,,10.1103/PhysRevLett.125.086802,,,,,,,,,,,True,,,,,True,,,,,,,,,,,"10.5281/zenodo.1182437,10.5281/zenodo.2578027"
 180bcc96-99e1-4d0a-83bf-e04a527bd8ad,2024.0,,,,,10.1103/PRXQuantum.3.030311,,,,,,,,,,,True,,,,,True,,,,,,,,,,,
-180bcc96-99e1-4d0a-83bf-e04a527bd8ad,2024.0,,,,,10.1103/PhysRevLett.131.117001,,,,,,,,,,,True,,,,,True,,,,,,,,,,,
+180bcc96-99e1-4d0a-83bf-e04a527bd8ad,2024.0,,,,,10.1103/PhysRevLett.131.117001,,,,,,,,,,,True,,,,,True,,,,,,,,,,,10.4121/17876240.v1
 182fe959-6948-4e63-8880-38ad806c9e48,2020.0,,,,,10.1038/s41467-020-14618-0,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 1831ca34-b048-41e7-8d9d-ae9474062fbe,2021.0,,,,,10.1039/d1ew00231g,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 1842d753-d002-4081-b7c6-2d51915d5e17,2021.0,,,,,10.1021/acsami.1c16513,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -611,8 +611,8 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 1b690460-b01c-48a9-b7b4-4b265279d922,2023.0,,,,,10.1021/acs.biomac.3c00262,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 1b690460-b01c-48a9-b7b4-4b265279d922,2023.0,,,,,10.1016/j.xcrp.2023.101547,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 1b72b2c7-c148-48be-b019-c03935d3f7f1,2023.0,,,,,10.1038/s41592-019-0657-7,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-1b72b2c7-c148-48be-b019-c03935d3f7f1,2023.0,,,,,10.1038/s41467-021-22006-5,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-1b72b2c7-c148-48be-b019-c03935d3f7f1,2023.0,,,,,10.1093/bioinformatics/btac320,,,,,,,,,,,True,,,,,,,,,,,,,,,,
+1b72b2c7-c148-48be-b019-c03935d3f7f1,2023.0,,,,,10.1038/s41467-021-22006-5,,,,,,,,,,,True,,,,,,,,,,,,,,,,"10.4121/13797686,10.4121/13743703"
+1b72b2c7-c148-48be-b019-c03935d3f7f1,2023.0,,,,,10.1093/bioinformatics/btac320,,,,,,,,,,,True,,,,,,,,,,,,,,,,"10.4121/uuid:0d42a28f-f625-41a3-ba77-25e397685466,10.4121/14074091.v1,10.4121/13797686.v1"
 1b72b2c7-c148-48be-b019-c03935d3f7f1,2023.0,,,,,10.1038/s41598-023-39829-5,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 1ba0d52e-a233-4d54-b8ec-4700ecee5997,2023.0,,,,,10.1146/annurev-biochem-032620-110506,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 1ba53c72-a349-42b5-bba3-5018ce60203d,2020.0,,,,,10.1088/2053-1591/ab771e,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -633,7 +633,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 1d39f774-6007-422d-9f14-c4d18d932765,2020.0,,,,,10.1007/s10798-020-09574-1,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 1d8626b6-1f08-4f27-85b9-b1d8f1626dfd,2024.0,,,,,10.1038/s41467-023-42026-7,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 1d8626b6-1f08-4f27-85b9-b1d8f1626dfd,2024.0,,,,,10.1038/s41586-022-05585-1,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
-1d8626b6-1f08-4f27-85b9-b1d8f1626dfd,2024.0,,,,,10.1103/PhysRevX.13.031031,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
+1d8626b6-1f08-4f27-85b9-b1d8f1626dfd,2024.0,,,,,10.1103/PhysRevX.13.031031,,,,,,,,,,,True,True,,,,,,,,,,,,,,,10.5281/zenodo.7395016
 1d9a4741-2932-4e48-8d36-b16bcc247605,2022.0,,,,,10.1002/biot.202200332,,,,,,,,,True,,True,,,,,,,,,,,,,,,,
 1dd25bce-265c-4f6f-aa28-1ba23b479a63,2022.0,,,,,10.1002/cey2.278,,,,,,,,,,True,True,,,,,,,,,,,,,,,,
 1dec8c36-09b5-4c4e-bedd-a245b0209453,2023.0,,,,,10.1103/PhysRevB.108.064431,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -650,7 +650,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 1e670d32-56e9-44b6-ae6b-e8990dc773b8,2023.0,,,,,10.7554/eLife.84024,True,"['github.com/3d-pli/SLIX', 'github.com/NYU-DiffusionMRI/DESIGNER']",,,,,,,,,True,True,,,,True,,,,,,,,,,,
 1e68bb52-37e8-438e-ba1e-ea62e592a414,2022.0,,,,,10.1002/cssc.202102628,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1e6afc90-8ae8-4850-85e3-1a6dab1db116,2021.0,,,,,10.1126/sciadv.abg6653,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
-1e6c8f9e-4b66-4a40-b6e4-66b300fefbd5,2023.0,,,,,10.1364/OPTICA.446434,,,,,,,,,,,True,,,,,,,,,,,,,,,,
+1e6c8f9e-4b66-4a40-b6e4-66b300fefbd5,2023.0,,,,,10.1364/OPTICA.446434,,,,,,,,,,,True,,,,,,,,,,,,,,,,10.5281/zenodo.5782970
 1e6c8f9e-4b66-4a40-b6e4-66b300fefbd5,2023.0,,,,,10.1103/PhysRevApplied.20.024053,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 1e6c8f9e-4b66-4a40-b6e4-66b300fefbd5,2023.0,,,,,10.1038/s41467-023-36953-8,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 1e86a45f-380d-4794-8f45-910677359e01,2020.0,,,,,10.1016/j.bioflm.2019.100011,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -678,7 +678,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 2059440f-5be3-49b7-a29b-5a23be7a8349,2021.0,,,,,10.1111/1365-2478.12960,True,['github.com/JanThorbecke/OpenSource'],,,,,,,,,True,True,,,,,,,,,,,,,,,
 2059440f-5be3-49b7-a29b-5a23be7a8349,2021.0,,,,,10.1190/geo2020-0196.1,True,['github.com/JanThorbecke/OpenSource'],,,,,,,,,True,True,,,,,,,,,,,,,,,
 2063cfc2-0449-4685-994c-aa6bc0c1dd8e,2021.0,,,,,10.1002/mame.202100623,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-206fc2d9-eb46-4cbf-8976-beafdf9583cb,2021.0,,,,,10.1103/PhysRevB.103.125134,,,,,,,,,,,True,True,,,,True,,True,,,,,,,,,
+206fc2d9-eb46-4cbf-8976-beafdf9583cb,2021.0,,,,,10.1103/PhysRevB.103.125134,,,,,,,,,,,True,True,,,,True,,True,,,,,,,,,10.5281/zenodo.4455260
 208c8612-f29f-415f-b92a-7ba9aa288556,2020.0,,,,,10.1016/j.fuel.2020.118650,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 20b84b88-06ed-4650-8bd9-284270ebcdc9,2021.0,,,,,10.1038/s41467-020-20388-6,True,"['github.com/', 'github.com/QuTech-Delft/qtt']",,,,,,,,,True,True,,,,,,,,,,,,,,,
 20c15493-c789-476a-ae45-3080157c6eeb,2022.0,,,,,10.1109/JSSC.2022.3201758,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
@@ -754,7 +754,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 24e8c212-1d5a-4ecc-a520-27030686607b,2024.0,,,,,10.1038/s41534-021-00468-1,,,,,,,,,,,True,True,,,,,True,,,,,,,,,,
 24e8c212-1d5a-4ecc-a520-27030686607b,2024.0,,,,,10.1038/s41534-023-00779-5,,,,,,,,,,,True,True,,,,,True,,,,,,,,,,
 24ecd539-c633-4222-9d9f-f38a0d99502a,2021.0,,,,,10.1103/PhysRevResearch.2.013229,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
-24ecd539-c633-4222-9d9f-f38a0d99502a,2021.0,,,,,10.21468/SCIPOSTPHYS.11.2.022,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
+24ecd539-c633-4222-9d9f-f38a0d99502a,2021.0,,,,,10.21468/SCIPOSTPHYS.11.2.022,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,10.5281/zenodo.4382483
 2503e392-313e-4f6b-ba3a-bea3c914b921,2020.0,,,,,10.1103/PhysRevApplied.14.014026,,,,,,,,,,,,,,,,,,,,,,,,,,,
 25111657-c744-49ef-84f9-3beba5a48e63,2021.0,,,,,10.1039/d0nr00755b,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 25193473-aa8c-4006-8068-9b7aa285ab89,2020.0,,,,,10.1002/cctc.202000431,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -807,7 +807,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 28aba1c8-1ee7-4c48-8a90-c8b138b88f19,2024.0,,,,,10.1002/adma.202106629,True,['github.com/juanjosepalacios/ANT.Gaussian'],,,,,,,,,True,,,,,,,,,,,,,,,,
 28aba1c8-1ee7-4c48-8a90-c8b138b88f19,2024.0,,,,,10.1039/D3TC02346J,True,['github.com/juanjosepalacios/ANT.Gaussian'],,,,,,,,,True,,,,,,,,,,,,,,,,
 29412128-39ed-4e67-bbce-7ff6e2c56061,2020.0,,,,,10.1074/jbc.ra120.014739,,,,,,,,,,,True,,,,,,,,,,,,,,True,,
-2954bd13-2224-47f3-841a-fa55d9397bb0,2022.0,,,,,10.21468/SCIPOSTPHYSCORE.5.3.045,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
+2954bd13-2224-47f3-841a-fa55d9397bb0,2022.0,,,,,10.21468/SCIPOSTPHYSCORE.5.3.045,,,,,,,,,,,True,True,,,,,,,,,,,,,,,"10.5281/zenodo.4597080,10.5281/zenodo.1182437"
 29980543-1690-407f-b29f-2e17a1eaddb5,2022.0,,,,,10.1016/j.seppur.2022.121218,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 29a0a526-7c59-4aa1-a80e-b7422823ec64,2022.0,,,,,10.1016/j.cub.2021.12.033,True,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 29c8f417-e167-48b5-8cbf-28eb27f57ab4,2021.0,,,,,10.1016/j.ultrasmedbio.2019.11.020,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -851,7 +851,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 2d793500-349d-4b19-b290-a6a458c778eb,2022.0,,,,,10.1016/j.scitotenv.2022.154142,,,,,,,,,,,True,,,,,,,True,,,,,,,,,
 2d7c700e-a7c6-4778-9d9c-abd2bf3ff57f,2020.0,,,,,10.1016/j.cattod.2020.09.020,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 2d7c774b-a9b7-42af-857d-0a2057e97c03,2024.0,,,,,10.1016/j.jclepro.2020.120788,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-2d899526-f8c2-47ec-b0ee-acd6a9f24889,2021.0,,,,,10.1038/s42005-021-00549-9,True,"['github.com/', 'github.com/MickaelPerrin74/DataClustering']",,,,,,,,,True,True,,,,,,,,,,,,,,,
+2d899526-f8c2-47ec-b0ee-acd6a9f24889,2021.0,,,,,10.1038/s42005-021-00549-9,True,"['github.com/', 'github.com/MickaelPerrin74/DataClustering']",,,,,,,,,True,True,,,,,,,,,,,,,,,10.6084/m9.figshare.13258640
 2d9a5e3f-c804-4a3a-b390-c5b77390562a,2020.0,,,,,10.1016/j.watres.2019.115228,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 2db4b9f4-71b1-4f38-8973-a04a89ea9745,2023.0,,,,,10.1002/adbi.202300105,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 2dbb6088-7131-44a2-9cc3-116a0856b5cc,2023.0,,,,,10.1016/j.cherd.2023.02.026,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -867,7 +867,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 2e5c2d37-20af-48f9-a926-593e8a7aa5a6,2022.0,,,,,10.1002/bit.27522,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 2e5c2d37-20af-48f9-a926-593e8a7aa5a6,2022.0,,,,,10.1080/09593330.2021.2017492,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 2e65bdbb-8790-4f79-8192-25f25a202c78,2021.0,,,,,10.1016/j.ultrasmedbio.2021.09.009,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-2e6c1f89-c87d-4e45-ae57-be5bc02fc322,2021.0,,,,,10.1038/s42003-021-02622-z,True,"['github.com/ArnovanHilten/GenNet/', 'github.com/', 'github.com/arnovanhilten/GenNet/']",,,,,,,,,True,True,,,,,,,,,,,,,,,
+2e6c1f89-c87d-4e45-ae57-be5bc02fc322,2021.0,,,,,10.1038/s42003-021-02622-z,True,"['github.com/ArnovanHilten/GenNet/', 'github.com/', 'github.com/arnovanhilten/GenNet/']",,,,,,,,,True,True,,,,,,,,,,,,,,,10.5281/ZENODO.5151527
 2e732123-66ec-416f-9134-ee5ebcd17fad,2022.0,,,,,10.1103/PhysRevB.105.174402,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 2eaa9d79-a69c-43a9-b97f-77f1b6abdd75,2020.0,,,,,10.1103/PhysRevB.101.125414,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2eaba5ac-17aa-485a-82ac-86beca4ac325,2022.0,,,,,10.1038/s41556-022-01037-0,True,['github.com/NemoAn-'],,,,,,,,,True,True,,,,,,,,,,,,,True,,
@@ -879,7 +879,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 2ef12013-205f-48b9-a742-910f484536b6,2022.0,,,,,10.1007/s11242-021-01740-w,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 2f0607de-c065-41fc-824a-611474a73beb,2023.0,,,,,10.1088/2633-4356/abcd82,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 2f0607de-c065-41fc-824a-611474a73beb,2023.0,,,,,10.1063/5.0158262,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-2f0607de-c065-41fc-824a-611474a73beb,2023.0,,,,,10.1021/acsami.2c17395,,,,,,,,,,,True,,,,,,,,,,,,,,,,
+2f0607de-c065-41fc-824a-611474a73beb,2023.0,,,,,10.1021/acsami.2c17395,,,,,,,,,,,True,,,,,,,,,,,,,,,,10.48550/arXiv.2109.07837
 2f0607de-c065-41fc-824a-611474a73beb,2023.0,,,,,10.1038/s41534-023-00727-3,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 2f0607de-c065-41fc-824a-611474a73beb,2023.0,,,,,10.1038/s41467-023-39334-3,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 2f1f1dd8-7df5-4109-b1b4-059078a1ae4d,2023.0,,,,,10.1021/acsestwater.3c00307,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -930,7 +930,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 31c2d47f-2b92-4103-9aeb-f63dbd015e69,2020.0,,,,,10.1021/acscatal.0c00188,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 31c2d47f-2b92-4103-9aeb-f63dbd015e69,2020.0,,,,,10.1002/cctc.201902297,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 31ceb902-501e-4ca6-a1eb-2873cff0b420,2022.0,,,,,10.1016/j.cherd.2021.12.002,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-31d03aac-111d-4ce9-a3d5-cda9096c52c0,2024.0,,,,,10.1080/10407790.2023.2211231,,,,,,,,,,,True,,,,,True,,,,,,,,,,,
+31d03aac-111d-4ce9-a3d5-cda9096c52c0,2024.0,,,,,10.1080/10407790.2023.2211231,,,,,,,,,,,True,,,,,True,,,,,,,,,,,"10.5281/ZENODO.5704671,10.5281/zenodo.6801340,10.5281/ZENODO.6802376"
 31eea64d-f99a-446e-a9cf-37670909fbbf,2022.0,,,,,10.1007/s00397-020-01234-4,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 31eea64d-f99a-446e-a9cf-37670909fbbf,2022.0,,,,,10.1039/d0sm00275e,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 31eea64d-f99a-446e-a9cf-37670909fbbf,2022.0,,,,,10.1021/acsami.2c00186,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -950,13 +950,13 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 32f4180c-f92d-4133-8f5f-b6ad8eb98cda,2023.0,,,,,10.1021/acs.macromol.3c00575,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 3318b1c5-ed69-4f49-9bd0-59b342434806,2020.0,,,,,10.1002/adfm.202003428,,,,,,,,,,,,,,,,,,,,,,,,,,,
 331ba865-550f-41f4-b0bd-c3a60f15d5f7,2023.0,,,,,10.1038/s41467-023-43128-y,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
-331d5213-c765-4146-95b6-875643b8265c,2021.0,,,,,10.1103/PhysRevLett.126.117701,,,,,,,,,,,True,,,,,,,,,,,,,,,,
+331d5213-c765-4146-95b6-875643b8265c,2021.0,,,,,10.1103/PhysRevLett.126.117701,,,,,,,,,,,True,,,,,,,,,,,,,,,,10.5281/zenodo.4377165
 332dfc29-fa95-4695-b5f9-dae12a3510fd,2020.0,,,,,10.1364/OE.410446,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 333bada4-be27-4ecc-af08-b5b464b628f7,2022.0,,,,,10.1002/bit.28094,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 3353f734-2d23-4dbd-b80d-ffac899c69e8,2021.0,,,,,10.3390/ijms21228641,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 335ede39-f0d2-499e-bb5d-2131026b9778,2024.0,,,,,10.1038/s41467-020-17461-5,,,,,,,,,,,True,True,,,,True,,,,,,,,True,,,
 335ede39-f0d2-499e-bb5d-2131026b9778,2024.0,,,,,10.1103/PhysRevB.108.085437,,,,,,,,,,,True,True,,,,True,,,,,,,,True,,,
-335ede39-f0d2-499e-bb5d-2131026b9778,2024.0,,,,,10.1038/s41565-023-01491-3,,,,,,,,,,,True,True,,,,True,,,,,,,,True,,,
+335ede39-f0d2-499e-bb5d-2131026b9778,2024.0,,,,,10.1038/s41565-023-01491-3,,,,,,,,,,,True,True,,,,True,,,,,,,,True,,,10.5281/zenodo.8083119
 335ede39-f0d2-499e-bb5d-2131026b9778,2024.0,,,,,10.1103/PhysRevApplied.19.014063,,,,,,,,,,,True,True,,,,True,,,,,,,,True,,,
 336917ed-f8f0-4a79-93b7-978d2bab803e,2022.0,,,,,10.1109/JSSC.2020.3024678,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 336917ed-f8f0-4a79-93b7-978d2bab803e,2022.0,,,,,10.1063/5.0012883,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
@@ -976,7 +976,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 34a60ef1-ec71-49e5-8593-eadda560bdf0,2023.0,,,,,10.1364/OE.500909,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 34bcaaa6-ec2b-44fd-ad25-387236568911,2023.0,,,,,10.1103/PhysRevB.103.214502,True,['github.com/Inventitech/phd-thesis-template'],,,,,,,,,True,,,,,,,,,,,,,,,,
 34c53167-26fa-45be-80c6-0a081f0c3932,2020.0,,,,,10.1103/PhysRevFluids.5.103502,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-34d0e4d1-b3e2-4610-8e4b-53d9b9a32ed8,2022.0,,,,,10.21468/SciPostPhys.12.1.017,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
+34d0e4d1-b3e2-4610-8e4b-53d9b9a32ed8,2022.0,,,,,10.21468/SciPostPhys.12.1.017,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,10.5281/zenodo.5552380
 34d22f46-3fe5-42c7-bc01-59eb70070b44,2021.0,,,,,10.1088/1361-6560/ab5bc6,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 34d22f46-3fe5-42c7-bc01-59eb70070b44,2021.0,,,,,10.1088/1361-6560/abe557,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 350138aa-d1ba-4dfe-ac2a-8ea7b8da9780,2020.0,,,,,10.1051/epn/2020303,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -985,7 +985,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 351afa4f-28f7-42cd-a41e-9eeb2746de75,2022.0,,,,,10.1039/d2nr03438g,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 352be4dc-76ae-4fa2-945e-17fdae35e714,2022.0,,,,,10.1017/jfm.2021.149,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 354eda3a-6ade-461a-91cf-0b863bff97c1,2023.0,,,,,10.1038/s42254-020-0228-y,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
-354eda3a-6ade-461a-91cf-0b863bff97c1,2023.0,,,,,10.1103/PhysRevB.107.184509,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
+354eda3a-6ade-461a-91cf-0b863bff97c1,2023.0,,,,,10.1103/PhysRevB.107.184509,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,10.5281/zenodo.6444338
 355aa0ba-550c-4b66-b2c0-f6eaaf3dac74,2024.0,,,,,10.1039/d1gc02246f,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 355be9ae-cc1f-4df2-89f7-59bc65be1f30,2022.0,,,,,10.1021/acs.jpclett.2c01851,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 35a4bd15-370b-4a2b-a16a-46de714e7d66,2021.0,,,,,10.1016/j.apmt.2021.101012,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -999,7 +999,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 3612ef4e-d9a2-4db0-873b-98f5b72c5e15,2023.0,,,,,10.1002/jctb.7453,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 361b2bb6-7480-4baa-93a9-f0534e3c23b1,2020.0,,,,,10.1364/OPTICA.392772,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 36229cb7-744e-4cf3-b659-b55d68c3487b,2021.0,,,,,10.1088/1361-6463/ac181d,,,,,,,,,,,True,,,,,,True,,,,,,,,,,
-3654a58f-cb99-40c3-8a8c-1e5da39e8b9c,2022.0,,,,,10.1038/s41467-021-26228-5,,,,,,,,,,,True,,,,,,,,,,,,,,,,
+3654a58f-cb99-40c3-8a8c-1e5da39e8b9c,2022.0,,,,,10.1038/s41467-021-26228-5,,,,,,,,,,,True,,,,,,,,,,,,,,,,"10.4121/13031837,10.4121/15175494"
 3654a58f-cb99-40c3-8a8c-1e5da39e8b9c,2022.0,,,,,10.1364/BOE.452159,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 3670ec8a-5a12-4e4e-80ed-df5d52f0bb3d,2023.0,,,,,10.1038/s41467-021-22293-y,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 3670ec8a-5a12-4e4e-80ed-df5d52f0bb3d,2023.0,,,,,10.3390/ijms222111767,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
@@ -1040,7 +1040,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 3a3291a0-8ba7-435d-9934-e62e0d13dfd9,2023.0,,,,,10.1103/PhysRevResearch.4.043137,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 3a3291a0-8ba7-435d-9934-e62e0d13dfd9,2023.0,,,,,10.1103/PhysRevResearch.5.033033,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 3a3b30a5-4e6e-4452-8b77-d26435321f74,2021.0,,,,,10.1016/j.ejrad.2020.109266,True,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
-3a3b30a5-4e6e-4452-8b77-d26435321f74,2021.0,,,,,10.1007/s10585-021-10119-6,True,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
+3a3b30a5-4e6e-4452-8b77-d26435321f74,2021.0,,,,,10.1007/s10585-021-10119-6,True,,,,,,,,,,True,True,,,,True,,,,,,,,,,,"10.5281/zenodo.3840534,10.5281/zenodo.4392829"
 3a5c9234-8a86-462d-ac86-66c3888d94d1,2022.0,,,,,10.1002/bit.28306,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 3a60c232-6f03-4c49-806b-91f153d72e1c,2023.0,,,,,10.1038/s41563-023-01735-6,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 3a7cc2fd-869f-4d48-8bad-134da68a5f68,2021.0,,,,,10.1021/acsnano.1c01669,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -1060,7 +1060,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 3b7c4bad-cefd-4d6c-9f4f-0e7f765e942c,2021.0,,,,,10.3390/pharmaceutics13010119,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 3b7c4bad-cefd-4d6c-9f4f-0e7f765e942c,2021.0,,,,,10.1016/j.ijpharm.2021.121154,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 3b8b509a-dfce-43ad-ab22-897f37594437,2023.0,,,,,10.1038/s41467-022-35458-0,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
-3b8b509a-dfce-43ad-ab22-897f37594437,2023.0,,,,,10.1021/acs.nanolett.3c03349,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
+3b8b509a-dfce-43ad-ab22-897f37594437,2023.0,,,,,10.1021/acs.nanolett.3c03349,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,10.5281/zenodo.10254611
 3b95d79e-3dd8-477f-be58-cda38cf1828a,2023.0,,,,,10.1021/acscatal.3c01781,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 3b978df5-cdf3-428b-89c5-85ccd373a180,2021.0,,,,,10.1016/j.watres.2020.115924,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 3b99ddd1-1e70-40ca-ad48-226a23b7994f,2023.0,,,,,10.1038/s41467-023-40442-3,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -1119,7 +1119,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 3fad6510-e4ab-4c64-a8e9-072430326c60,2022.0,,,,,10.1007/s00253-021-11742-9,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 3fae26ae-0636-4f5d-9d85-13c831752205,2020.0,,,,,10.1103/PhysRevApplied.14.024069,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
 3fae26ae-0636-4f5d-9d85-13c831752205,2020.0,,,,,10.1088/1367-2630/ab60f6,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
-3fdca72d-5284-46f9-8dc3-312c87295e03,2021.0,,,,,10.1103/PhysRevResearch.3.L022005,,,,,,,,,,,True,,,,,,,,,,,,,,,,
+3fdca72d-5284-46f9-8dc3-312c87295e03,2021.0,,,,,10.1103/PhysRevResearch.3.L022005,,,,,,,,,,,True,,,,,,,,,,,,,,,,10.15479/AT:ISTA:9291
 403725b6-091e-4bda-b0fb-e46ad787d7f1,2020.0,,,,,10.1088/1361-6560/ab9eff,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 403725b6-091e-4bda-b0fb-e46ad787d7f1,2020.0,,,,,10.21037/QIMS-19-1036,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 4039a707-03bd-4181-9a41-df20393863bb,2022.0,,,,,10.1021/acs.jpcc.1c09684,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -1154,8 +1154,8 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 41be8047-7942-4ba9-ab4d-361c79cda0cb,2023.0,,,,,10.1016/j.biotechadv.2020.107567,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 41be8047-7942-4ba9-ab4d-361c79cda0cb,2023.0,,,,,10.1016/j.biteb.2023.101348,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 41c69f5b-0f81-45d6-9a4e-5d57a0174957,2021.0,,,,,10.1002/qute.202100032,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-41d9fe21-465f-444d-91ff-2508f50d3fe5,2022.0,,,,,10.3389/fmolb.2022.863470,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-41d9fe21-465f-444d-91ff-2508f50d3fe5,2022.0,,,,,10.1038/s41467-022-28467-6,,,,,,,,,,,True,,,,,,,,,,,,,,,,
+41d9fe21-465f-444d-91ff-2508f50d3fe5,2022.0,,,,,10.3389/fmolb.2022.863470,,,,,,,,,,,True,,,,,,,,,,,,,,,,10.4121/19008833
+41d9fe21-465f-444d-91ff-2508f50d3fe5,2022.0,,,,,10.1038/s41467-022-28467-6,,,,,,,,,,,True,,,,,,,,,,,,,,,,"10.5281/ZENODO.1495468,10.5281/ZENODO.5732995"
 4216b62e-ee42-4fef-b5f0-b40eb4327201,2023.0,,,,,10.1002/mp.16473,,,True,['gitlab.com/radiology/igit/q-'],,,,,,,,True,,,,,,,,,,,,,,,
 427eb32c-891c-4aa3-b202-b606893ee633,2022.0,,,,,10.1016/j.bpj.2022.05.027,True,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 42894883-22ba-49a7-94d2-14e69fa5c7bb,2020.0,,,,,10.1039/d0sm01584a,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1192,7 +1192,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 44d2ba33-5e5b-473b-a131-6ecb16db9b24,2023.0,,,,,10.1016/j.jpowsour.2022.230998,True,,,,,,,,,,True,,,,,,,,,,,,,,,,
 44d2ba33-5e5b-473b-a131-6ecb16db9b24,2023.0,,,,,10.1021/acsami.3c11096,True,,,,,,,,,,True,,,,,,,,,,,,,,,,
 44d774a6-4e0d-4043-af33-89339968d85b,2024.0,,,,,10.7554/eLife.82891,True,"['github.com/', 'github.com/hoogenboom-group/PSF-Extractor', 'github.com/hoogenboom-', 'github.com/plotly/dash']",,,,,,,,,True,True,,,,,,,,,,,,,,,
-44d774a6-4e0d-4043-af33-89339968d85b,2024.0,,,,,10.1364/OE.461750,True,"['github.com/', 'github.com/hoogenboom-group/PSF-Extractor', 'github.com/hoogenboom-', 'github.com/plotly/dash']",,,,,,,,,True,True,,,,,,,,,,,,,,,
+44d774a6-4e0d-4043-af33-89339968d85b,2024.0,,,,,10.1364/OE.461750,True,"['github.com/', 'github.com/hoogenboom-group/PSF-Extractor', 'github.com/hoogenboom-', 'github.com/plotly/dash']",,,,,,,,,True,True,,,,,,,,,,,,,,,10.6084/m9.figshare.19674732.v1
 44f216a9-c074-47c9-b691-1745ad76db8c,2021.0,,,,,10.1016/j.radonc.2020.04.017,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 44fdad78-5545-4bb8-9841-edf8ed2c27e2,2020.0,,,,,10.1016/j.btre.2020.e00462,,,,,,,,,,,True,,,,,,,True,,,,,,,,,
 450731eb-345c-42cf-9082-25962fd26744,2022.0,,,,,10.1109/TUFFC.2022.3176742,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -1207,7 +1207,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 45c904b0-17ed-4d31-807f-ac0998ac7ce7,2023.0,,,,,10.1016/j.scitotenv.2020.144847,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 45c904b0-17ed-4d31-807f-ac0998ac7ce7,2023.0,,,,,10.1016/j.envres.2023.116914,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 45e5917b-a26d-49bd-ba15-52b7853579f2,2020.0,,,,,10.1016/j.tsf.2020.138137,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
-4601c636-ed53-4e45-b8b7-39eaf43cdefa,2023.0,,,,,10.1007/s11081-023-09798-9,True,,,,,,,,,,True,True,,,,,,,,,,,,,,,
+4601c636-ed53-4e45-b8b7-39eaf43cdefa,2023.0,,,,,10.1007/s11081-023-09798-9,True,,,,,,,,,,True,True,,,,,,,,,,,,,,,10.5281/zenodo.6901932
 468a143c-4eb9-49db-bde2-5954c17f417f,2021.0,,,,,10.3390/cancers12061606,True,"['github.com/MStarmans9', 'github.com/MStarmans9', 'github.com/', 'github.com/MStarmans91/WORC', 'github.com/josemanuel097/PCa_classiﬁcation_']",,,,,,,,,True,True,,,,,,,,,,,,,,,
 468a143c-4eb9-49db-bde2-5954c17f417f,2021.0,,,,,10.3390/diagnostics11020369,True,"['github.com/MStarmans9', 'github.com/MStarmans9', 'github.com/', 'github.com/MStarmans91/WORC', 'github.com/josemanuel097/PCa_classiﬁcation_']",,,,,,,,,True,True,,,,,,,,,,,,,,,
 468a6445-cdc5-4616-94f4-1082193674d2,2021.0,,,,,10.1002/advs.202102275,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -1235,7 +1235,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 485341ad-d201-424a-b17a-334397cb5287,2022.0,,,,,10.1007/s10482-022-01779-9,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 48750d98-022d-4a97-8b92-458a803e4460,2023.0,,,,,10.1021/acs.cgd.0c01415,True,['rmhartkamp.github.io/'],,,,,,,,,True,,,,,,,,,,,,,,,,
 48750d98-022d-4a97-8b92-458a803e4460,2023.0,,,,,10.1021/acs.cgd.1c01436,True,['rmhartkamp.github.io/'],,,,,,,,,True,,,,,,,,,,,,,,,,
-489924df-1bd0-465f-8576-f5fab6d6fe92,2023.0,,,,,10.1103/PhysRevLett.131.097001,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
+489924df-1bd0-465f-8576-f5fab6d6fe92,2023.0,,,,,10.1103/PhysRevLett.131.097001,,,,,,,,,,,True,True,,,,,,,,,,,,,,,10.4121/c.6076818.v2
 48ab69e1-10bb-4089-9e73-aa86ef582095,2022.0,,,,,10.1007/978-1-0716-2399-2_15,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 48bbd0e8-8378-48fd-9b24-f958d9a9aa2c,2023.0,,,,,10.1016/j.jnucmat.2023.154682,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 48f3978e-bafa-4253-8fb2-8fa54c1e37bf,2023.0,,,,,10.1039/d3cy00541k,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1268,7 +1268,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 4b1d77de-f668-4e9a-8a5f-1177d7167b41,2022.0,,,,,10.1002/jctb.6792,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 4b1d77de-f668-4e9a-8a5f-1177d7167b41,2022.0,,,,,10.1016/j.chroma.2022.463451,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 4b2857f3-ca08-4c59-ab9e-f0f6d07659d9,2023.0,,,,,10.1039/d3cs00147d,,,,,,,,,,,True,True,,,,,True,,,,,,,,,,
-4b350797-bf2b-455d-8bfe-b2c9a72efa83,2020.0,,,,,10.1038/s41598-020-74376-3,,,,,,,,,,,True,,,,,,,,,,,,,,,,
+4b350797-bf2b-455d-8bfe-b2c9a72efa83,2020.0,,,,,10.1038/s41598-020-74376-3,,,,,,,,,,,True,,,,,,,,,,,,,,,,10.5281/zenodo.3932797
 4b6670cc-fef0-4c77-9e7d-d01e6fb63946,2021.0,,,,,10.1093/gji/ggaa375,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 4b845ed5-c4ed-4630-9ec7-7a54ad740d0a,2020.0,,,,,10.1039/d0cc03229h,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4b8780ae-8916-4e64-a383-cc6e09b957a8,2022.0,,,,,10.1021/acsaelm.2c00179,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1337,7 +1337,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 5146cae5-bffd-4897-a195-c08c196dd9f7,2022.0,,,,,10.1002/cctc.202100840,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5146cae5-bffd-4897-a195-c08c196dd9f7,2022.0,,,,,10.1016/j.mcat.2022.112469,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5146cae5-bffd-4897-a195-c08c196dd9f7,2022.0,,,,,10.1002/cbic.202200482,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5152d5f1-2d65-43df-9b95-d17426342722,2024.0,,,,,10.1103/PhysRevX.13.041015,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
+5152d5f1-2d65-43df-9b95-d17426342722,2024.0,,,,,10.1103/PhysRevX.13.041015,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,10.5281/zenodo.8233351
 51792b59-14a6-4125-9761-063f4a7140d7,2024.0,,,,,10.1073/pnas.2019473118,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 51792b59-14a6-4125-9761-063f4a7140d7,2024.0,,,,,10.1021/acs.nanolett.2c02791,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 51792b59-14a6-4125-9761-063f4a7140d7,2024.0,,,,,10.1038/s41699-023-00423-y,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
@@ -1389,7 +1389,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 54f43047-4128-44c7-98f6-4b23ebcf979a,2022.0,,,,,10.1039/d2sc00937d,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 5513ea77-f0d8-4458-918e-f31493083ec9,2021.0,,,,,10.1021/acsnano.9b09353,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 552766c2-3cfc-439d-9091-9a88e28e1b9c,2024.0,,,,,10.1103/PhysRevApplied.13.054018,,,,,,,,,,,True,,True,,,True,True,,,,,,,,,,
-552766c2-3cfc-439d-9091-9a88e28e1b9c,2024.0,,,,,10.1103/PhysRevResearch.4.033043,,,,,,,,,,,True,,True,,,True,True,,,,,,,,,,
+552766c2-3cfc-439d-9091-9a88e28e1b9c,2024.0,,,,,10.1103/PhysRevResearch.4.033043,,,,,,,,,,,True,,True,,,True,True,,,,,,,,,,10.5281/zenodo.6035943
 55289778-5fda-4718-bb9d-d64ecc6c444f,2020.0,,,,,10.1002/adsu.202000003,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 554bbfe8-02be-4527-96d3-e70b979d1b98,2022.0,,,,,10.1038/s41594-022-00802-x,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
 554bbfe8-02be-4527-96d3-e70b979d1b98,2022.0,,,,,10.1016/j.celrep.2022.111491,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
@@ -1439,9 +1439,9 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 5b02da5a-4fcd-4263-9a0c-30fac7206a8c,2023.0,,,,,10.1039/d2cc02402k,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 5b02da5a-4fcd-4263-9a0c-30fac7206a8c,2023.0,,,,,10.3897/aldj.1.105146,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 5b48e010-a06b-4e13-b752-ca3d0676c264,2021.0,,,,,10.1016/j.ijheatfluidflow.2021.108800,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
-5b495a9f-d088-497a-a98d-d052d203f82f,2022.0,,,,,10.1007/s10278-022-00590-2,True,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
+5b495a9f-d088-497a-a98d-d052d203f82f,2022.0,,,,,10.1007/s10278-022-00590-2,True,,,,,,,,,,True,True,,,,True,,,,,,,,,,,"10.5281/zenodo.3854839,10.5281/zenodo.3840534,10.5281/zenodo.3839322"
 5b4c0246-96c7-4dd8-a233-201872d9b308,2023.0,,,,,10.1007/s10967-023-08783-x,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-5b798218-d0c9-4c89-a966-daf4b622fa80,2024.0,,,,,10.1364/OL.502344,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
+5b798218-d0c9-4c89-a966-daf4b622fa80,2024.0,,,,,10.1364/OL.502344,,,,,,,,,,,True,True,,,,,,,,,,,,,,,10.24416/UU01-4SVE6U
 5b921a31-6f7b-4dc0-bd5f-83aa039e5b6b,2022.0,,,,,10.1039/d1nr06484c,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5bc70e77-4c7f-4895-9cba-376a462f6bb9,2021.0,,,,,10.1002/cptc.201900205,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5bc70e77-4c7f-4895-9cba-376a462f6bb9,2021.0,,,,,10.1002/cbic.202100182,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1507,7 +1507,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 603d4fa2-5279-4314-aba4-b7f161bf5b87,2020.0,,,,,10.1016/j.memsci.2020.118189,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 604759b0-e900-420e-a0da-81eef49154a9,2020.0,,,,,10.1002/anie.202008921,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 604c2e1a-8fe9-4e50-a76e-cbf25b9c47c0,2020.0,,,,,10.1364/OSAC.385908,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-6050d076-ddc2-43fd-b1f9-771e64cfab67,2023.0,,,,,10.1038/s41598-023-41898-5,,,,,,,,,,,True,,,,,,,,,,,,,,,,
+6050d076-ddc2-43fd-b1f9-771e64cfab67,2023.0,,,,,10.1038/s41598-023-41898-5,,,,,,,,,,,True,,,,,,,,,,,,,,,,10.4121/21908796
 6083e347-0e00-4560-8d25-00a61c7e4229,2020.0,,,,,10.1063/1.5126264,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 6099cc55-2f01-410a-b52e-24e173e28c0e,2023.0,,,,,10.1016/j.cej.2023.142131,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 60ac95f2-0a58-4844-87a3-3bda01eda2bb,2023.0,,,,,10.1007/s11071-023-08660-y,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -1516,7 +1516,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 610c0657-9706-4fde-90ce-6bc9ecd14620,2023.0,,,,,10.1021/acs.organomet.0c00781,True,"['github.com/ahashemiche/ReNeGate', 'github.com/ahashemiche/HiREX', 'github.com/nicodv/kmodes']",,,,,,,,,True,True,,,,,,,,,,,,,,,
 611cad64-1733-4510-a11d-29b626f39c00,2021.0,,,,,10.1038/s41598-021-97780-9,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 612cb58a-9902-4389-bea3-54412ee8fa85,2021.0,,,,,10.1038/s41534-021-00425-y,True,['scientiﬁc-conduct.github.io'],,,,,,,,,True,True,,,,,,,,,,,,,,,
-61332adc-1318-4a81-a3ae-756b3b38acbc,2022.0,,,,,10.21468/SciPostPhysCore.5.4.053,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
+61332adc-1318-4a81-a3ae-756b3b38acbc,2022.0,,,,,10.21468/SciPostPhysCore.5.4.053,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,10.5281/zenodo.5939935
 614ad379-bd35-42e8-acfd-6905c851755a,2021.0,,,,,10.1016/j.nicl.2021.102712,,,True,"['gitlab.com/radiolo', 'gitlab.com/radiology/neuro/bron-cro', 'gitlab.com/radiolo']",,,,,,,True,True,,,,,,,,,,,,,,,
 6153c397-5971-4b6a-be41-0b93dbaa81ef,2023.0,,,,,10.1021/acs.iecr.1c04080,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 6153c397-5971-4b6a-be41-0b93dbaa81ef,2023.0,,,,,10.1016/j.jcat.2023.06.032,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
@@ -1678,7 +1678,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 7122f592-1e0b-44d2-a229-20fb070b0f00,2022.0,,,,,10.1016/j.matchemphys.2021.125582,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 71757441-b155-4029-bf33-80864c1274d5,2020.0,,,,,10.1039/d0ay00096e,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 7188640f-9407-4155-bf28-6d5f57024d68,2021.0,,,,,10.1002/aenm.202102144,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-718a558c-149f-433d-a482-c3cf25fad032,2021.0,,,,,10.1038/s41467-021-22526-0,True,"['github.com/HoldenLab/DeepAutoFocus', 'github.com/HoldenLab/', 'github.com/', 'github.com/HoldenLab/violinplusDABEST-Matlab', 'github.com/HoldenLab/ring-simulator', 'github.com/HoldenLab/DeepAutoFocus55', 'github.com/HoldenLab/Ring_Analysis_IJ56', 'github.com/HoldenLab/ring-ﬁtting257', 'github.com/HoldenLab/violinplusDABEST-Matlab58', 'github.com/HoldenLab/septal_constriction_analysis59', 'github.com/HoldenLab/ring-simulator60']",,,,,,,,,True,True,,,,True,,,,,,,,,,,
+718a558c-149f-433d-a482-c3cf25fad032,2021.0,,,,,10.1038/s41467-021-22526-0,True,"['github.com/HoldenLab/DeepAutoFocus', 'github.com/HoldenLab/', 'github.com/', 'github.com/HoldenLab/violinplusDABEST-Matlab', 'github.com/HoldenLab/ring-simulator', 'github.com/HoldenLab/DeepAutoFocus55', 'github.com/HoldenLab/Ring_Analysis_IJ56', 'github.com/HoldenLab/ring-ﬁtting257', 'github.com/HoldenLab/violinplusDABEST-Matlab58', 'github.com/HoldenLab/septal_constriction_analysis59', 'github.com/HoldenLab/ring-simulator60']",,,,,,,,,True,True,,,,True,,,,,,,,,,,"10.5281/ZENODO.4573121,10.5281/ZENODO.4573635"
 719f0bdd-932b-431f-8b60-0b8504c8426a,2022.0,,,,,10.1128/AEM.00672-20,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 719f0bdd-932b-431f-8b60-0b8504c8426a,2022.0,,,,,10.1016/j.ymben.2021.07.006,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 719f0bdd-932b-431f-8b60-0b8504c8426a,2022.0,,,,,10.1128/mBio.00967-21,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -1696,7 +1696,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 728312a7-2249-46df-bf5b-7b86543a9e5d,2023.0,,,,,10.3390/pr9020278,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 728312a7-2249-46df-bf5b-7b86543a9e5d,2023.0,,,,,10.1016/j.ese.2022.100220,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 7289a4ad-77c2-49eb-9766-7b30df63cb7e,2023.0,,,,,10.1016/j.actamat.2023.119149,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-728fa658-de04-4217-8b51-e210f4ded79d,2023.0,,,,,10.21468/SciPostPhysCore.6.2.036,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
+728fa658-de04-4217-8b51-e210f4ded79d,2023.0,,,,,10.21468/SciPostPhysCore.6.2.036,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,10.5281/zenodo.6644551
 72a76a0e-7456-40de-806a-4466a637f985,2023.0,,,,,10.1021/acsphotonics.3c00477,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 72ac2f3f-7bc7-4f3c-a582-d0654b1643b6,2020.0,,,,,10.1021/acs.jpcc.0c09953,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 72bb8f0a-579b-4454-ac27-dfd86c544bef,2024.0,,,,,10.3390/ijms24054374,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -1857,7 +1857,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 8351b5a5-475f-4216-9912-cd2c698922c7,2021.0,,,,,10.1186/s11671-021-03503-4,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 83865d8e-9ba8-4bdb-b8bc-2a30c6ed4cf3,2021.0,,,,,10.1002/mrm.29112,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 8397719d-32e2-4415-aca0-381e95de545f,2023.0,,,,,10.1002/cctc.202300821,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-83bfd24b-48c1-46cd-96bf-f3700d866e5f,2023.0,,,,,10.1103/PhysRevB.107.035406,,,,,,,,,,,True,,,,,,,,,,,,,,,,
+83bfd24b-48c1-46cd-96bf-f3700d866e5f,2023.0,,,,,10.1103/PhysRevB.107.035406,,,,,,,,,,,True,,,,,,,,,,,,,,,,10.5281/zenodo.6473079
 83c13de5-0992-4e3e-b1a6-4b224f77c88e,2023.0,,,,,10.1002/bbb.2532,,,,,,,,,,,,,,,,,True,,,,,,,,,,
 8459b14c-28c0-4914-af64-39303352c2ab,2024.0,,,,,10.1103/PhysRevLett.125.193601,True,['github.com/watermarkhu/qsurface/tree/4e31ae0'],,,,,,,,,True,True,,,,,,,,,,,,,,,
 84837e43-435d-4eec-b864-617713fef929,2021.0,,,,,10.1021/acscatal.1c01693,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -1887,7 +1887,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 87350f3c-44a8-47e1-b959-b23728dfaf91,2023.0,,,,,10.1103/PhysRevLett.131.170801,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 87504f01-b94a-4108-ae8e-d1a5ee565b56,2022.0,,,,,10.1016/j.jece.2022.108573,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 876fad45-94fd-4f78-a250-a48a4d229216,2024.0,,,,,10.1039/d2cy00485b,True,['github.com/EPiCs-group/epic-mace'],,,,,,,,,True,True,,,,,,,,,,,,,,,
-8770dc80-017f-4b76-af17-3816e864c775,2022.0,,,,,10.1063/5.0083161,,,,,,,,,,,True,,,,,,,,,,,,,,,,
+8770dc80-017f-4b76-af17-3816e864c775,2022.0,,,,,10.1063/5.0083161,,,,,,,,,,,True,,,,,,,,,,,,,,,,10.4121/17306906.v1
 878232cd-ba0f-495d-ba0e-f578f3c5df2f,2021.0,,,,,10.1016/j.forsciint.2021.110710,,,,,,,,,,,True,,,,,,,True,,,,,,,,,
 87846ffc-ad31-4325-bb06-29857daa21f3,2020.0,,,,,10.1088/1361-6560/ab7ef1,,,,,,,,,,,,,,,,,,,,,,,,,,,
 878fa145-54e0-4bb5-b64f-0bd1f6afde43,2022.0,,,,,10.1021/acsphyschemau.1c00038,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
@@ -1933,7 +1933,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 8b66ead8-eeb3-42f5-a492-238d3febb9b3,2023.0,,,,,10.1016/j.watres.2020.116604,True,"['github.com/tseemann/samclip', 'github.com/samtools/samtools', 'github.com/smdabdoub/kraken-biom']",,,,,,,,,True,True,,,,,,,,,,,,,,,
 8b849587-dddf-4cf1-8c73-86ad5cf703c3,2020.0,,,,,10.1016/j.jlumin.2020.117101,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 8bc03a17-7bcd-44bf-b068-e714afbea8c8,2022.0,,,,,10.1126/science.abg8223,,,,,,,,,,,True,,,,,True,,,,,,,,,,,
-8bc03a17-7bcd-44bf-b068-e714afbea8c8,2022.0,,,,,10.1021/acs.nanolett.2c02783,,,,,,,,,,,True,,,,,True,,,,,,,,,,,
+8bc03a17-7bcd-44bf-b068-e714afbea8c8,2022.0,,,,,10.1021/acs.nanolett.2c02783,,,,,,,,,,,True,,,,,True,,,,,,,,,,,10.5281/zenodo.6826214
 8bc48e89-d9a9-4024-b4cb-01c0982e70e7,2023.0,,,,,10.1016/j.nanoen.2022.108016,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 8c339861-81f4-4fb4-8add-8e8de8c91f57,2022.0,,,,,10.1039/d2cp03603g,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 8c4d758e-a070-4d0b-9ee3-e880d3575d7d,2022.0,,,,,10.1039/d1tc03825g,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -1980,7 +1980,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 9052ccd8-cc3c-49f8-8842-291c6a8ab919,2021.0,,,,,10.1021/acs.accounts.1c00618,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 9081cd83-4687-49f1-bab2-5ec8c1665060,2023.0,,,,,10.1016/j.compchemeng.2023.108202,True,['github.com/zetayue/MXMNet'],,,,,,,,,True,,,,,True,,,,,,,,,,,
 90992530-8cc8-4ec8-8900-ad09407f2960,2021.0,,,,,10.1016/j.csbj.2021.03.013,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-90a17d83-644c-40f1-a6b4-09bfa7f425d5,2021.0,,,,,10.3389/fmicb.2021.656250,,,,,,,,,,,True,,,,,,,,,,,,,,,,
+90a17d83-644c-40f1-a6b4-09bfa7f425d5,2021.0,,,,,10.3389/fmicb.2021.656250,,,,,,,,,,,True,,,,,,,,,,,,,,,,10.21945/RIVM-2019-0112
 90b83410-9a60-47e8-87dd-ac5059efa623,2022.0,,,,,10.1038/s41598-022-14973-6,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 90cdbd78-d2cb-451e-8b6d-58bbccae8cb6,2022.0,,,,,10.1016/j.jconrel.2022.05.008,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 90f16a03-5856-48f3-8e8a-433d7e3a0916,2023.0,,,,,10.1021/acsaem.2c02591,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2013,12 +2013,12 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 94683dab-562d-44ca-891d-409792891758,2022.0,,,,,10.1021/acsami.2c03841,,,,,,,,,,,True,,,,,,,True,,,,,,,,,
 947271da-c28c-46ae-bec5-a06b55cf5f9a,2020.0,,,,,10.1021/acs.jcim.9b01103,,,,,,,,,,,True,,,,,True,,,,,,,,,True,,
 94c31f1b-9472-4a89-a295-d5060c26d75c,2022.0,,,,,10.1016/j.seppur.2022.121773,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-953895c6-5c5c-4983-968a-ff7ea658f17b,2021.0,,,,,10.1103/PhysRevLett.127.127202,,,,,,,,,,,True,,,,,,,,,,,,,,,,
+953895c6-5c5c-4983-968a-ff7ea658f17b,2021.0,,,,,10.1103/PhysRevLett.127.127202,,,,,,,,,,,True,,,,,,,,,,,,,,,,10.5281/zenodo.4552830
 95461717-66b2-4ab4-b900-2577a43198b5,2021.0,,,,,10.1016/j.ultramic.2021.113335,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 956cb21d-d1dc-4446-a7c3-9037a8cea914,2020.0,,,,,10.1021/jacs.9b13572,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 95a72d63-03c2-4500-9cf2-a37e3cc7ad44,2021.0,,,,,10.1061/(ASCE)EE.1943-7870.0001768,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 95d8d1fd-da4f-433f-8850-e548a1865ab9,2020.0,,,,,10.1038/s41567-020-0905-x,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-968ae3d7-efbb-4729-985d-c75b72e4d5f9,2023.0,,,,,10.1063/5.0135407,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
+968ae3d7-efbb-4729-985d-c75b72e4d5f9,2023.0,,,,,10.1063/5.0135407,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,10.5281/zenodo.7249806
 96a7f56c-2b09-4aa8-95b6-e398e07b1287,2023.0,,,,,10.1016/j.watres.2021.117398,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 96bf34fb-f870-498a-99ee-23966d8b08ca,2021.0,,,,,10.3389/fmicb.2021.766527,,,,,,,,,,,True,True,,,,,,,,,,True,,,True,,
 96f2b612-727c-4668-a4bd-86b397d7934b,2021.0,,,,,10.1063/5.0021487,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -2061,7 +2061,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 9af1f5c4-dee2-4654-a739-474c1b4cf4bd,2021.0,,,,,10.1007/s00253-020-10705-w,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 9af1f5c4-dee2-4654-a739-474c1b4cf4bd,2021.0,,,,,10.1016/j.biotechadv.2021.107712,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 9af93419-2648-4a16-89d8-e34aa863e637,2024.0,,,,,10.1016/j.radonc.2023.109729,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-9b38aa58-340a-481e-a771-bb834fb1314e,2022.0,,,,,10.1103/PhysRevResearch.4.043127,True,['github.com/cianibegood/pysqkit'],,,,,,,,,True,True,,,,,,,,,,,,,,,
+9b38aa58-340a-481e-a771-bb834fb1314e,2022.0,,,,,10.1103/PhysRevResearch.4.043127,True,['github.com/cianibegood/pysqkit'],,,,,,,,,True,True,,,,,,,,,,,,,,,10.5281/zenodo.6628824
 9bd41a52-c059-455d-86e1-cac42d8e33bb,2021.0,,,,,10.1103/PhysRevLett.125.097006,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 9bf59936-07a9-4463-9ab4-6f0928eaab5e,2021.0,,,,,10.1038/s41598-021-89919-5,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 9c06be9b-a679-449d-b06b-8f9deb5ed20c,2021.0,,,,,10.1038/s41598-021-99398-3,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -2081,7 +2081,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 9e447ca4-f102-4998-9928-c9286a454146,2020.0,,,,,10.1016/j.ijheatmasstransfer.2019.119238,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 9e4b5f32-5d54-4e57-8ee7-693b692f4957,2021.0,,,,,10.1098/rsos.201779,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 9eab8ce7-e244-4bb6-a861-221911f01c92,2020.0,,,,,10.1021/acsenergylett.9b02361,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9eabc35e-497e-4dbf-80b8-f88fcda30937,2023.0,,,,,10.1364/OE.426620,True,"['github.com/qnano/zimflux', 'github.com/qnano/VectorialPSF']",,,,,,,,,True,True,,,,,,,,,,,,,,,
+9eabc35e-497e-4dbf-80b8-f88fcda30937,2023.0,,,,,10.1364/OE.426620,True,"['github.com/qnano/zimflux', 'github.com/qnano/VectorialPSF']",,,,,,,,,True,True,,,,,,,,,,,,,,,10.4121/14995089
 9eabc35e-497e-4dbf-80b8-f88fcda30937,2023.0,,,,,10.3389/fnins.2022.954949,True,"['github.com/qnano/zimflux', 'github.com/qnano/VectorialPSF']",,,,,,,,,True,True,,,,,,,,,,,,,,,
 9eabc35e-497e-4dbf-80b8-f88fcda30937,2023.0,,,,,10.1364/OE.505958,True,"['github.com/qnano/zimflux', 'github.com/qnano/VectorialPSF']",,,,,,,,,True,True,,,,,,,,,,,,,,,
 9ebc42d4-2007-4cd8-b80c-43cd05e326a4,2023.0,,,,,10.1063/5.0156400,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -2098,7 +2098,7 @@ uuid,pub_year,epub_year,organisations,organisations_names,datasets,doi,github,gi
 a0501348-5810-4ab4-a379-a7e73793f10b,2021.0,,,,,10.1021/acs.jpcc.1c09806,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 a0660720-6c1a-41fb-8565-bf68035e1fdc,2023.0,,,,,10.1021/acs.jpcc.3c03251,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 a06ec592-de7c-4c9b-b82b-23eb358bdb09,2022.0,,,,,10.1557/s43580-021-00166-2,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-a09ecc0b-c303-486e-9e14-663071e987e0,2020.0,,,,,10.3389/fmars.2020.00668,,,,,,,,,,,True,,,,,,,,,,,,,,,,
+a09ecc0b-c303-486e-9e14-663071e987e0,2020.0,,,,,10.3389/fmars.2020.00668,,,,,,,,,,,True,,,,,,,,,,,,,,,,"10.25923/krv2-ps85,10.5285/aaf5a71d-75ea-38d5-e053-6c86abc03e63,10.5285/13d58735-4252-109d-e053-6c86abc0bae4"
 a0bac9ef-3534-4d5f-9b00-847ac59fcb31,2021.0,,,,,10.1016/j.watres.2021.116959,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 a0fcf0bc-2bcb-482c-995f-d6ddcf592f4e,2020.0,,,,,10.1128/MRA.01511-19,True,['nanoporetech.github.io/medaka/'],,,,,,,,,True,,,,,,,,,,,,,,,,
 a1244d1a-d755-40fc-a33d-769b3d30f05e,2022.0,,,,,10.1021/acs.jpcb.1c08621,True,['github.com/SMOSLab/Fluoresence-lifetime-ﬁtting-'],,,,,,,,,True,True,,,,,,,,,,,,,,,
@@ -2228,7 +2228,7 @@ b21e6aea-c7e7-4ddf-8dc2-c9163a101c82,2021.0,,,,,10.1103/PhysRevMaterials.5.04441
 b24aef9f-3c39-4218-9958-99108194b925,2021.0,,,,,10.1038/s41467-020-20529-x,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 b2608ed7-2ea8-4cd2-aacb-597ab32cc0be,2021.0,,,,,10.1002/adfm.202107880,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 b2758b14-41a9-4f8f-ac46-fe7827ad998d,2023.0,,,,,10.1016/j.cherd.2023.02.014,,,,,,,,,,,True,,True,,,,,,,,,,,,,,
-b2b197f7-319e-4d58-a6ac-78f82951ae44,2021.0,,,,,10.1103/PhysRevA.104.053509,,,,,,,,,,,,True,,,,True,,,,,,,,,,,
+b2b197f7-319e-4d58-a6ac-78f82951ae44,2021.0,,,,,10.1103/PhysRevA.104.053509,,,,,,,,,,,,True,,,,True,,,,,,,,,,,10.5281/zenodo.4292367
 b2b197f7-319e-4d58-a6ac-78f82951ae44,2021.0,,,,,10.1116/5.0050988,,,,,,,,,,,,True,,,,True,,,,,,,,,,,
 b2c6b589-0f67-4d36-84c8-fa077c2e1994,2021.0,,,,,10.3389/fspas.2021.665649,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 b2cd4236-ae1a-4d61-a73d-78c1f1de73ae,2023.0,,,,,10.1038/s41580-023-00686-9,,,,,,,,,,,,,,,,,True,,,,,,,,,,
@@ -2250,7 +2250,7 @@ b47fe8b3-30bc-48d7-9174-ac99da1cfe6a,2023.0,,,,,10.1021/jacsau.3c00319,,,,,,,,,,
 b48fb5d4-a0b6-4928-833b-0f0e16c7fd15,2020.0,,,,,10.3390/en13225984,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 b49b8c37-4bc1-463e-a31a-43d65505ebda,2022.0,,,,,10.1016/j.cej.2022.135326,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 b4cb7f7d-0c4f-40ba-944c-a4fe9e2d47cc,2021.0,,,,,10.1038/s41564-020-0704-2,True,['broadinstitute.github.io/picard'],True,['gitlab.tudelft.nl/rortizmerin'],,,,,,,True,True,,,,,,,,,,,,True,,,
-b53faaf6-cfe3-46db-8ee1-06a4f7505f7f,2023.0,,,,,10.1088/2633-4356/acc9f6,,,,,,,,,,,True,,,,,,,,,,,,,,,,
+b53faaf6-cfe3-46db-8ee1-06a4f7505f7f,2023.0,,,,,10.1088/2633-4356/acc9f6,,,,,,,,,,,True,,,,,,,,,,,,,,,,10.5281/zenodo.7753445
 b5701a38-aa2a-45f9-9357-44088e039af6,2020.0,,,,,10.3389/fbioe.2020.00566,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 b59a7a51-8bc8-4227-bdc6-6507dc3158ed,2021.0,,,,,10.1364/OE.413478,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 b5db9410-6d84-4778-853c-23e61ff3146c,2023.0,,,,,10.1021/acs.biomac.2c01405,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -2281,7 +2281,7 @@ b8a72139-8bc9-4b69-959a-ef239e5e66e8,2020.0,,,,,10.1038/s41467-020-18367-y,True,
 b8b23d1f-2db9-4899-9f04-c2deab374015,2023.0,,,,,10.1021/acschembio.2c00938,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 b8b816e9-61ae-453e-997c-1cdc9710833a,2021.0,,,,,10.1016/j.funbio.2020.12.002,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 b8db60a4-777b-40ba-aa67-e87ba58731b4,2022.0,,,,,10.1021/acs.jpcc.2c01101,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-b933dc9b-0f6a-4084-bce8-1945010a7cb0,2024.0,,,,,10.21468/SciPostPhys.14.3.047,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
+b933dc9b-0f6a-4084-bce8-1945010a7cb0,2024.0,,,,,10.21468/SciPostPhys.14.3.047,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,10.5281/zenodo.7266609
 b9b45940-05c0-4b81-8349-40b54d946bbd,2023.0,,,,,10.1002/adma.202308631,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 b9daecaa-8157-4c94-8daf-2c7f3dfaf125,2021.0,,,,,10.1021/acsphotonics.1c00010,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 ba00d8b1-1e5e-43dd-8b17-5575bba773df,2023.0,,,,,10.1021/acs.jpcc.3c05846,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -2309,7 +2309,7 @@ bca1d1b8-8e13-4be5-8a90-d66c641dc7c4,2023.0,,,,,10.1016/j.ultrasmedbio.2022.08.0
 bca47ea5-bb36-49c6-8225-36d4081e70fc,2021.0,,,,,10.1021/acs.est.0c08204,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 bcad15ec-806d-4f58-b015-42fb844fba14,2021.0,,,,,10.1016/j.cej.2021.131345,True,['github.com/Eric-Bradford/TS-'],,,,,,,,,True,True,,,,,,,,,,,,,,,
 bcc3e384-9fc3-4258-be2f-8cdf8a7ad076,2020.0,,,,,10.1051/epn/2020504,,,,,,,,,,,,,,,,,,,,,,,,,,,
-bcf9c1c3-a510-4a42-927f-24a983b2e8ec,2021.0,,,,,10.21468/SciPostPhys.10.4.092,,,,,,,,,,,True,,,,,True,,,,,,,,,,,
+bcf9c1c3-a510-4a42-927f-24a983b2e8ec,2021.0,,,,,10.21468/SciPostPhys.10.4.092,,,,,,,,,,,True,,,,,True,,,,,,,,,,,10.5281/zenodo.4526466
 bd432af8-4881-4d7b-967a-ca54c72c0f92,2023.0,,,,,10.1016/j.xcrp.2023.101491,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 bd8a8edb-3ccb-4f2f-9212-bc6e14af41bb,2023.0,,,,,10.1016/j.ultramic.2021.113223,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 bdaccfd9-e441-43e8-9d01-3c4fc94e0e0f,2022.0,,,,,10.1016/j.cej.2022.135905,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -2320,7 +2320,7 @@ bdf6285f-0b26-4e23-804f-0c3a91a0e2a1,2020.0,,,,,10.1021/acsanm.0c00583,,,,,,,,,,
 be6aabc3-8ba2-480b-8afb-5746fd7e0f5e,2020.0,,,,,10.1038/s41598-020-76671-5,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 bf0fc606-4774-4a52-b3b7-9c1e88e045d1,2023.0,,,,,10.1103/PhysRevA.105.023302,True,['github.com/fchollet/'],True,"['gitlab.com/QMAI/papers/adversarialkitaevchain', 'gitlab.com/QMAI/papers/adversarialkitaevchain']",,,,,,,True,True,,,,,,,,,,,,,,,
 bf0fc606-4774-4a52-b3b7-9c1e88e045d1,2023.0,,,,,10.1103/PhysRevApplied.20.044081,True,['github.com/fchollet/'],True,"['gitlab.com/QMAI/papers/adversarialkitaevchain', 'gitlab.com/QMAI/papers/adversarialkitaevchain']",,,,,,,True,True,,,,,,,,,,,,,,,
-bf0fc606-4774-4a52-b3b7-9c1e88e045d1,2023.0,,,,,10.1038/s41467-023-39044-w,True,['github.com/fchollet/'],True,"['gitlab.com/QMAI/papers/adversarialkitaevchain', 'gitlab.com/QMAI/papers/adversarialkitaevchain']",,,,,,,True,True,,,,,,,,,,,,,,,
+bf0fc606-4774-4a52-b3b7-9c1e88e045d1,2023.0,,,,,10.1038/s41467-023-39044-w,True,['github.com/fchollet/'],True,"['gitlab.com/QMAI/papers/adversarialkitaevchain', 'gitlab.com/QMAI/papers/adversarialkitaevchain']",,,,,,,True,True,,,,,,,,,,,,,,,10.5281/zenodo.6913897
 bf190e26-4afd-4f77-9e96-a922207ecdd5,2020.0,,,,,10.1371/journal.pcbi.1007314,True,['github.com/'],,,,,,,,,True,,,,,,,,,,,,,,,,
 bf898800-043f-4b09-b0fb-be09ce8573dd,2022.0,,,,,10.1021/acs.chemmater.2c02637,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 bfb7f1d1-a3b3-4583-a33c-32eef08e9b20,2022.0,,,,,10.1021/acsenergylett.2c01555,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -2336,7 +2336,7 @@ c0b0b050-90b9-4eb2-ad9c-988314cf2b56,2021.0,,,,,10.3389/fpls.2021.642591,,,,,,,,
 c0dc1c03-0fbf-471f-a8e5-3fe7cfbf7b6d,2023.0,,,,,10.1021/acs.langmuir.3c01100,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 c0dc5533-5fc9-4b8a-9478-0ba5ad9b9de1,2022.0,,,,,10.1002/ejoc.202101035,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 c0f196d4-54db-4cb6-8fa8-f5a3cf842b49,2023.0,,,,,10.1093/femsmc/xtad020,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-c138660f-6ecd-4730-b2d9-dd5f4eb515b5,2023.0,,,,,10.21468/SciPostPhys.15.3.114,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
+c138660f-6ecd-4730-b2d9-dd5f4eb515b5,2023.0,,,,,10.21468/SciPostPhys.15.3.114,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,"10.48550/arXiv.2209.02578,10.5281/zenodo.6600606,10.5281/zenodo.7006801"
 c1db8865-e424-4a4a-b7db-a1cd77509590,2023.0,,,,,10.1080/02656736.2023.2272578,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 c211942a-a5fe-49f0-bf20-e232c79b376d,2023.0,,,,,10.1021/acs.jpcc.3c02732,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 c2929764-de32-42ee-953e-1f45502f7771,2022.0,,,,,10.1016/j.apcatb.2022.121362,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -2347,7 +2347,7 @@ c3a33015-076b-4132-a19e-f315a2bc8c73,2021.0,,,,,10.1007/s11222-021-10013-x,True,
 c3ca5357-47f9-4d67-951e-dd3c201472ef,2020.0,,,,,10.1021/acs.jpcc.0c02287,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 c3f5e791-2eb5-426a-8067-a1e3b488bd0a,2023.0,,,,,10.1021/acs.jpcc.2c08807,True,"['github.com/khhuisman/CISS_effect', 'github.com/khhuisman/CISS_CoulombInteraction', 'github.com/khhuisman/Nearest_', 'github.com/khhuisman/Coulomb_Bipartite.git', 'github']",,,,,,,,,True,True,,,True,,True,,,,,,,,,,
 c3f5e791-2eb5-426a-8067-a1e3b488bd0a,2023.0,,,,,10.1063/5.0148748,True,"['github.com/khhuisman/CISS_effect', 'github.com/khhuisman/CISS_CoulombInteraction', 'github.com/khhuisman/Nearest_', 'github.com/khhuisman/Coulomb_Bipartite.git', 'github']",,,,,,,,,True,True,,,True,,True,,,,,,,,,,
-c41dd8a1-7878-4105-8f0a-8fa956ea8ff4,2023.0,,,,,10.1021/acs.nanolett.3c00499,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
+c41dd8a1-7878-4105-8f0a-8fa956ea8ff4,2023.0,,,,,10.1021/acs.nanolett.3c00499,,,,,,,,,,,True,True,,,,,,,,,,,,,,,10.4121/21977237
 c41e0155-fe64-475e-9d3c-d6cd9fc56fe9,2020.0,,,,,10.1109/TIM.2020.3007907,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 c4646dda-b82c-4c01-b3db-311566d3aafb,2020.0,,,,,10.1103/PhysRevB.101.104402,,,,,,,,,,,,,,,,,,,,,,,,,,,
 c487fe21-f61e-4544-ad12-5fe656e48d2a,2023.0,,,,,10.1016/j.colsurfa.2022.130820,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -2425,8 +2425,8 @@ cf56b331-1f87-461c-955e-9aed132d0b60,2022.0,,,,,10.1016/j.ygeno.2022.110386,,,,,
 cf7b686f-e4de-40c4-994e-b9b824e2ae31,2023.0,,,,,10.1016/j.jhazmat.2021.127358,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 cf7b686f-e4de-40c4-994e-b9b824e2ae31,2023.0,,,,,10.3389/fbioe.2023.1096086,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 cf7fc604-526f-48a8-b406-23b9c146f2f9,2023.0,,,,,10.1021/acsami.3c15490,True,,,,,,,,,,True,,,,,,,,,,,,,,,,
-cfe9235a-cafd-4936-b109-c540b4fd6fbf,2023.0,,,,,10.1364/OE.456139,,,,,,,,,,,True,,,,,True,,,,,,,,,,,
-cfe9235a-cafd-4936-b109-c540b4fd6fbf,2023.0,,,,,10.1364/OE.474279,,,,,,,,,,,True,,,,,True,,,,,,,,,,,
+cfe9235a-cafd-4936-b109-c540b4fd6fbf,2023.0,,,,,10.1364/OE.456139,,,,,,,,,,,True,,,,,True,,,,,,,,,,,10.5281/zenodo.6425084
+cfe9235a-cafd-4936-b109-c540b4fd6fbf,2023.0,,,,,10.1364/OE.474279,,,,,,,,,,,True,,,,,True,,,,,,,,,,,10.5281/zenodo.6606471
 cff87d8a-3363-431f-a23d-8288833511ca,2020.0,,,,,10.1109/TRPMS.2019.2916386,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 d016ff63-f49e-40cb-8677-41701f405fde,2022.0,,,,,10.1126/sciadv.abl6293,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 d060c9f2-bcba-4aff-93fe-1696cad1ccac,2023.0,,,,,10.1038/s41589-022-01225-x,True,"['github.com/youklab/', 'github.com/youklab/']",,,,,,,,,True,True,,,,,,,,,,,,True,,,
@@ -2447,7 +2447,7 @@ d3a5e9cb-ab2c-43f6-b278-071b9086e7b6,2020.0,,,,,10.7150/ntno.37080,,,,,,,,,,,Tru
 d3a7600d-b1f9-4010-8ded-c05772a8cd9a,2022.0,,,,,10.1038/s41535-021-00406-6,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
 d3b1b7aa-f70f-4d03-ae26-c34258cc0e65,2022.0,,,,,10.1021/acsenergylett.1c02262,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 d3c956ea-3ee9-4cf1-9ef3-01d9111180fa,2023.0,,,,,10.3390/su142215031,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
-d3f653d1-c3dc-4d28-b9ea-30cceef89e87,2022.0,,,,,10.1038/s41467-022-34972-5,True,['github.com/dmpelt/jumbo-bacteriophage'],,,,,,,,,True,True,,,,,,,,,,,True,,True,,
+d3f653d1-c3dc-4d28-b9ea-30cceef89e87,2022.0,,,,,10.1038/s41467-022-34972-5,True,['github.com/dmpelt/jumbo-bacteriophage'],,,,,,,,,True,True,,,,,,,,,,,True,,True,,10.5281/zenodo.7277351
 d417bbad-2fac-44e0-a0e1-ed903c7ad490,2020.0,,,,,10.1364/OE.390602,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 d419dbca-a6f6-412e-94fa-1d5ae7a8e4e4,2021.0,,,,,10.1016/j.powtec.2020.10.035,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 d43f7180-be04-4e5b-a090-993f52433513,2023.0,,,,,10.3390/metabo13010088,True,"['github.com/DavidLaoM/y3m2_ff', 'github.com/DavidLaoM/y3m_py', 'github.com/DavidLaoM/y3m_xml']",,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -2617,7 +2617,7 @@ f1bb28e5-929b-45c1-96ad-5896edaef509,2023.0,,,,,10.1021/acscentsci.2c01170,,,,,,
 f1df261f-fc1d-49cc-bd2d-31b82d86fb09,2020.0,,,,,10.1088/1361-6501/ab501a,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 f1e4966f-4535-440e-b7a4-2276c053d8df,2022.0,,,,,10.1021/acs.energyfuels.0c03695,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 f1e4966f-4535-440e-b7a4-2276c053d8df,2022.0,,,,,10.1016/j.petsci.2021.11.008,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-f23d708e-20db-4105-ad9e-833ea34937a8,2022.0,,,,,10.1038/s41534-022-00532-4,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
+f23d708e-20db-4105-ad9e-833ea34937a8,2022.0,,,,,10.1038/s41534-022-00532-4,,,,,,,,,,,True,True,,,,,,,,,,,,,,,10.5445/KSP/1000097557
 f2aa172c-fbd7-4abf-a9e8-6be772058c98,2021.0,,,,,10.7554/eLife.70968,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 f2d77f43-df76-4861-b06f-9b6747b985de,2022.0,,,,,10.1007/s11548-022-02634-y,,,True,['gitlab.com/radiology/igit/ar/ar-'],,,,,,,True,True,,,,,,,,,,,,,,,
 f32fac0c-bff6-49bb-9d2d-56df989a3639,2022.0,,,,,10.1002/elsc.202100139,,,,,,,,,,,True,,,,,,,,,,,,,,,,
@@ -2656,7 +2656,7 @@ f89b0c41-d1db-4b5a-a91a-c20a8fc650b0,2022.0,,,,,10.3791/63931,True,"['github.com
 f912aeef-af94-4c32-890b-6917bb48f6a9,2022.0,,,,,10.1016/j.diamond.2022.109225,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 f92a4311-320f-46e1-a685-4f348aecdcad,2023.0,,,,,10.3389/fbioe.2022.1110376,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 f94bed19-590e-472a-b54f-4c6f668272c5,2022.0,,,,,10.1186/s13068-022-02200-3,,,,,,,,,,,True,,,,,,,,,,,,,,,,
-f97bf288-40f9-475c-98cd-98f68e9b4aad,2021.0,,,,,10.21468/SCIPOSTPHYS.10.2.037,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
+f97bf288-40f9-475c-98cd-98f68e9b4aad,2021.0,,,,,10.21468/SCIPOSTPHYS.10.2.037,,,,,,,,,,,True,True,,,,,,,,,,,,,,,10.5281/zenodo.3971803
 f9c33150-d32d-417c-b7a8-1f5071ef71d0,2023.0,,,,,10.1016/j.compchemeng.2023.108153,,,True,,,,,,,,True,True,,,,,,,,,,,,,,,
 f9daacaf-4c01-40e2-8ee4-85e7173b2f53,2023.0,,,,,10.1088/2053-1583/acd0bf,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 fa0e6dcc-d499-4864-a86e-97bb65aa7200,2023.0,,,,,10.3389/fctls.2023.1105948,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
@@ -2679,7 +2679,7 @@ fe2b2819-b8dd-4304-a5ce-61e8b6011558,2022.0,,,,,10.3389/fctls.2022.926316,,,,,,,
 fea06732-27e6-4fd7-8a15-67ba8f4e097e,2021.0,,,,,10.1021/jacs.1c08245,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 feaeb0ba-a52b-4bb2-b564-5005b38884ff,2024.0,,,,,10.1126/science.abe3987,,,,,,,,,,,True,,,,,,,,,,,,,,,,
 febb87db-3a4f-4705-94ea-ac9c26b08ec2,2021.0,,,,,10.1007/s10596-021-10118-2,,,,,,,,,,,True,True,,,,,,,,,,,,,,,
-ff096452-d159-4e54-bd91-7833c6e2d06c,2022.0,,,,,10.1038/s41467-022-28028-x,True,"['github.com/Microsoft/Elevation', 'github.com/MichaelLinn/off_target_prediction', 'github.com/RTH-tools/crisproff', 'github.com/MDhewei/']",,,,,,,,,True,True,,,,True,,,True,,,,,,,,
-ff143ddc-ee8e-4947-81c3-dd0dfacd88e9,2021.0,,,,,10.1364/OE.439761,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,
+ff096452-d159-4e54-bd91-7833c6e2d06c,2022.0,,,,,10.1038/s41467-022-28028-x,True,"['github.com/Microsoft/Elevation', 'github.com/MichaelLinn/off_target_prediction', 'github.com/RTH-tools/crisproff', 'github.com/MDhewei/']",,,,,,,,,True,True,,,,True,,,True,,,,,,,,10.5281/zenodo.5792391
+ff143ddc-ee8e-4947-81c3-dd0dfacd88e9,2021.0,,,,,10.1364/OE.439761,,,,,,,,,,,True,True,,,,True,,,,,,,,,,,10.5281/zenodo.5482794
 ffb8dbba-de6d-4be1-a474-68df56800b52,2023.0,,,,,10.1016/j.synbio.2023.09.005,True,"['github.com/kolavarria/anaerobic_PHB', 'github.com/kolav', 'github.com/kolavarria/anaerobic_PHB']",,,,,,,,,True,True,,,,,,,,,,,,,,,
 ffec82d5-e4d4-4c72-895f-e375e1a8aea8,2023.0,,,,,10.1016/j.ultramic.2023.113735,,,,,,,,,,,True,True,,,,,,,,,,,,,,,

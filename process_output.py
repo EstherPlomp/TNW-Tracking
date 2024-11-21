@@ -95,7 +95,7 @@ for index, row in data.iterrows():
     process_git_repos(articles, data)
 
     # collect the keywords, drpping some values 
-    excluded_cols = ['uuid','doi','github_url', 'gitlab_url', 'pub_year', 'epub_year']
+    excluded_cols = ['uuid','doi','github_url', 'gitlab_url', 'pub_year', 'epub_year', 'data']
     keywords_target = []
     process_keywords(articles, data, excluded_cols, keywords_target)
 
