@@ -1,3 +1,4 @@
+import threading
 import requests
 import concurrent.futures
 import yaml
@@ -16,7 +17,11 @@ def get_crossref_info(doi):
                       or None if the request failed.
     """
     url = f"https://api.crossref.org/works/{doi}"
-    response = requests.get(url)
+    try:
+        response = requests.get(url, timeout=30)
+    except:
+        print('timeout or error getting Crossref info for:', url)
+        return None
 
     if response.status_code == 200:
         return response.json()['message']
@@ -102,7 +107,11 @@ def extract_doi_registration_agency(dois):
     """
     dois_joined = ','.join(dois)
     url = f"https://doi.org/doiRA/{dois_joined}"
-    response = requests.get(url)
+    try:
+        response = requests.get(url, timeout=30)
+    except:
+        print('timeout or error getting DOI RA info for:', url)
+        return dict()
 
     result = dict()
     data = response.json()
@@ -121,8 +130,12 @@ def get_datacite_metadata(doi):
         dict | None: A dictionary containing the retrieved metadata
                       or None if the request failed.
     """
-    url = f"https://api.datacite.org/dois//{doi}"
-    response = requests.get(url)
+    url = f"https://api.datacite.org/dois/{doi}"
+    try:
+        response = requests.get(url, timeout=30)
+    except:
+        print('timeout or error getting metadata for:', url)
+        return None
 
     if response.status_code == 200:
         return response.json()['data'].get('attributes')
@@ -130,6 +143,7 @@ def get_datacite_metadata(doi):
         return None
 
 
+# currently unused
 def print_datacite_data(data):
     """Prints specific fields from Datacite data.
 
@@ -173,8 +187,10 @@ def get_matching_objects(doi):
     """
 	# Get CrossRef info
 	crossref_data = get_crossref_info(doi)
-	print('Crossref data: ', crossref_data)
-	print('Extracted authors: ', extract_authors(crossref_data))
+	if crossref_data is None:
+		return []
+    # print('Crossref data: ', crossref_data)
+    # print('Extracted authors: ', extract_authors(crossref_data))
 	paper_authors = extract_authors(crossref_data)
 	print('paper authors:', paper_authors)
 	reference_dois = extract_reference_dois(crossref_data)
