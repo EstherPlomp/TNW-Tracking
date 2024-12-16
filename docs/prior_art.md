@@ -54,6 +54,7 @@ https://github.com/meronvermaas/PURE_fulltext_analysis
 - [vandewalle 2019](https://lirias.kuleuven.be/2815281?limo=0) - Code availability increased to 24% and increased citation for publications with code. Reanalysis of a previous study in 2012 found out that "Out of the 66 links to code found in 2012, only
   47 were still valid (or easy to fix)."
 - [Laurinavichyute et al. 2022 ](https://doi.org/10.1016/j.jml.2022.104332) - reproducibility rate ranged from 34% to 56%
+- [Frachtenberg 2022](http://dx.doi.org/10.7717/peerj-cs.887) - "The overall rate of artifact sharing we find in this dataset is approximately 30%, although it varies significantly with paper, author, and conference factors, and it is closer to 43% for conferences that actively evaluated artifact sharing. Approximately 20% of all shared artifacts are no longer accessible four years after publications, predominately when hosted on personal and academic websites. Our main finding is that papers with shared artifacts averaged approximately 75% more citations than papers with none."
 
 ### SWORDS
 
