@@ -36,6 +36,9 @@
   xDD, formerly known as GeoDeepDive, is a cyberinfrastructure that compiles data on published literature and provides users with the ability to perform full text searches of published literature
   using the xDD API (Peters et al. 2021a)." - [Donovan and Langseth 2024](https://doi.org/10.5334/dsj-2024-024)
     - Wieferich, D, Serna, B, Langseth, M, et al. 2020 Publink. U.S. Geological Survey Software Release. DOI: https://doi.org/10.5066/P92MX1NF (Azin/Joshua worked on some of these scripts)
+ 
+    - [Sharing research data and software: how are NWO and ZonMw funded projects doing? ](https://www.nwo.nl/en/news/sharing-research-data-and-software-how-are-nwo-and-zonmw-funded-projects-doing) - with [code available on Zenodo](https://zenodo.org/records/14389449). 
+    - PLOS efforts to analyse their own data ([2024](https://theplosblog.plos.org/2025/01/integrating-openalex-metadata-to-improve-open-science-indicators/)). 
 
 ### Relevant publications
 
