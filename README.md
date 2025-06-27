@@ -1,3 +1,7 @@
+
+
+[![DOI](https://zenodo.org/badge/815650483.svg)](https://doi.org/10.5281/zenodo.15756278)
+
 # TNW-Tracking
 Tracking Research Objects at the Faculty of Applied Sciences, TU Delft
 
@@ -69,3 +73,6 @@ Of course you can run the different steps individually. Have a look at the conte
 ## 📝 Prior Art 
 
 There are various prior efforts to tackle the same or related matters. We have collected these in [a separate markdown document](docs/prior_art.md)  
+
+## Citation for this repository
+Esther Plomp, Nemo Andrea, Ewan Cahen & Carlos Martinez. (2025). TNW-Tracking. Zenodo. https://doi.org/10.5281/zenodo.15756279. Available on GitHub: https://github.com/EstherPlomp/TNW-Tracking.
